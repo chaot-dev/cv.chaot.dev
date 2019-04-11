@@ -12,33 +12,33 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: m@rtin.ms
+    phone: +49 172 69 55 45 1
+    website: blog.inferior.dev #do not add http://
+    linkedin: 
+    github: phixion
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@ridelore'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: German
         level: Native
 
-      - idiom: French
+      - idiom: English
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: French
+        level: can order beer
 
     interests:
       - item: Climbing
         link:
 
-      - item: Snowboarding
+      - item: Boarding
         link:
 
       - item: Cooking
@@ -57,7 +57,7 @@ career-profile:
 
 education:
     - degree: MSc in Computer Science
-      university: University of London
+      university: University of Jena
       time: 2011 - 2012
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
