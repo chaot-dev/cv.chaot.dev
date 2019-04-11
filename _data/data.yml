@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -47,12 +47,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
+      Laboris nostrud exercitation minim duis. Elit reprehenderit ea aute aliqua sint commodo cillum esse voluptate eiusmod non laboris adipisicing eu. Esse aliqua magna magna dolore qui qui ipsum sint irure aute. Nisi veniam eu et nisi ex nostrud ad fugiat ipsum pariatur sint magna. Et ad magna exercitation consequat irure ad et ad. Laborum do enim laboris consectetur minim commodo ad mollit do nisi duis magna.
+      penatibus et magnis dis partuient montes, nascetur ridiculus mus.      Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 
 education:
