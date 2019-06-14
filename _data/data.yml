@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Martin Spitz
     tagline: SysOps
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.png  
 
     # Sidebar links
     email: m@rtin.ms
@@ -35,13 +35,13 @@ sidebar:
         level: can order beer
 
     interests:
-      - item: Climbing
-        link:
-
-      - item: Boarding
+      - item: Hiking
         link:
 
       - item: Cooking
+        link:
+
+      - item: Biking
         link:
 
 career-profile:
@@ -52,31 +52,43 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of Jena
-      time: 2011 - 2012
+    - degree: Anglistics and Business Science
+      university: University
+      time: 10/2004 — 06/2006
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        basic study period for Anglistics and Business Science
 
-          - Bullet point
-          - Bullet point
+          - Friedrich Schiller Universität Jena
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+education:
+    - degree: 
+      university: Military Service
+      time: 07/2003 — 03/2004
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Bundeswehr
 
-          - Bullet point
-          - Bullet point
+          - strong focus on secretarial work
+
+    - degree: 
+      university: Technical College
+      time: 09/1999 — 06/2003
+      details: |
+        Berufliches Gymnasium des Unstrut-Hainich-Kreises
+
+          - focused on electronic dataprocessing / computer science
+
+    - degree: 
+      university: Secondary School
+      time: 09/1994 — 06/1999
+      details: |
+        Albert-Schweitzer-Gymnasium Mühlhausen
+
+    - degree: 
+      university: Elementary School
+      time: 09/1990 — 06/1994
+      details: |
+          Mühlheim an der Ruhr
+    
 
 experiences:
     - role: Lead Developer
