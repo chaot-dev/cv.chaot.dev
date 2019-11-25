@@ -47,9 +47,10 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Laboris nostrud exercitation minim duis. Elit reprehenderit ea aute aliqua sint commodo cillum esse voluptate eiusmod non laboris adipisicing eu. Esse aliqua magna magna dolore qui qui ipsum sint irure aute. Nisi veniam eu et nisi ex nostrud ad fugiat ipsum pariatur sint magna. Et ad magna exercitation consequat irure ad et ad. Laborum do enim laboris consectetur minim commodo ad mollit do nisi duis magna.
-    penatibus et magnis dis partuient montes, nascetur ridiculus mus.      Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Sysop with 10 years of experience in busineses ranging from 500 to 10 thousands emplyees.
+    Always maintain an enjoyable working environment in my team but always open for critique and improvment advices.
+    Strong focus on maintaining security and dataprotection throughout my responsibilities and access rights.
+    Coordination of projects, meetings, calls, etc. to always keep the ball moving during critical phases.
 
 education:
   - degree: Technical College
@@ -64,7 +65,7 @@ education:
     details: |
       studies in Anglistics and Business Science
 
-  - degree: integration / network engineer
+  - degree: system integration / network engineer
     university: Hochschule Wismar
     time: 2014 - 2015
     details: |
