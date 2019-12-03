@@ -32,10 +32,10 @@ sidebar:
       level: Professional
 
     - idiom: French
-      level: can order beer
+      level: can order drinks
 
   interests:
-    - item: Climbing
+    - item: Hiking
       link:
 
     - item: Biking
@@ -51,6 +51,7 @@ career-profile:
     Always maintain an enjoyable working environment in my team but always open for critique and improvment advices.
     Strong focus on maintaining security and dataprotection throughout my responsibilities and access rights.
     Coordination of projects, meetings, calls, etc. to always keep the ball moving during critical phases.
+    Always evaluate and establish Open Source software in my work environments.
 
 education:
   - degree: Technical College
@@ -72,14 +73,14 @@ education:
       - certified IT Specialist, qualified for systems integration and networks (IHK)
 
 experiences:
-  - role: Legal Assistant
+  - role: Legal Assistant (IHK)
     time: 2006 - 2009
     company: Allen & Overy LLP
     details: |
       - apprenticeship as a legal assistant
       - 1 year focused on first- and second-level support at IT-Servicedesk
 
-  - role: IT Specialist
+  - role: IT Specialist (IHK)
     time: 2014 - 2015
     company: Hochschule Wismar
     details: |
@@ -94,44 +95,50 @@ experiences:
       - revamp of the ticket / call logging processes including basic change management
 
   - role: Network Infrastructure and Servicedesk Analyst
-    time: 2012 - 2019
+    time: 2012 - 2018
     company: IFCO Systems GmbH
     details: |
       - reallocating the IP-address space for the current IFCO sites as part of a infrastructure migration with another company
       - replacement of Blackberry devices for Europe including migration from BES 5.x to BES 10
       - migration from Windows XP / Office 2003 to Windows 7 / Office 2010
-      - Software packaging and deployment
-      - datacenter, server and network maintanance
-      - infrastructure demerge as part of a company split (rebuild services, infrastructure)
+      - software packaging and deployment
+      - datacenter, server, client and network maintanance (cisco IOS, Windows Server 2003 - 2016, Debian Linux, RHEL, Fedora, Windows XP - 10)
+      - Storage Administration (NetApp, EMC/Dell Storage)
+        - on-site backup, tape backup, metro clustering, storage migration (NetApp -> EMC)
+
+  - role: Network Infrastructure Company demerge
+    time: 2018 - 2019
+    company: IFCO Systems GmbH
+    details: |
+      - infrastructure demerge as part of a company split 
+      - rebuild IT services, infrastructure 
       - Office 365 / Azure AD migration (backend and clients)
 
 projects:
   title: Projects
   intro: >
-    You can list your side projects or open source libraries in this
-    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    Here's a selection of projects I am working on and/or contribute to 
 
   assignments:
-    - title: Velocity
-      link: "#hook"
-      tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    - title: arch_steinberg_ur44_patch
+      link: "https://github.com/phixion/arch_steinberg_ur44_patch"
+      tagline: "(c) Kernel Patch for the Steinberg UR44 USB Audio Interface to work with Archlinux."
 
-    - title: DevStudio
-      link: "#"
-      tagline: "A responsive website template designed to help web developers/designers market their services."
+    - title: sopel-modules
+      link: "https://github.com/phixion/sopel-modules"
+      tagline: "(python 2 and 3) A collection of modules for the  highly extensible IRC Bot framework Sopel."
 
-    - title: Tempo
-      link: "#"
-      tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    - title: nv-update
+      link: "https://github.com/lord-carlos/nvidia-update"
+      tagline: "(powershell) Powershell script to download and update nvidia drivers (contribution)"
 
-    - title: Atom
-      link: "#"
-      tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    - title: dynufw
+      link: "https://github.com/phixion/dynufw"
+      tagline: "(bash) Dynamically update ufw rules for dynmic destinations (i.e. dialup or mobile connections)"
 
-    - title: Delta
-      link: "#"
-      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    - title: mirror package repositories and ISO archives
+      link: "https://github.com/phixion/archmirror"
+      tagline: "(docker, bash) Hosting package repositories/iso archives for Archlinux, Tails, Ubuntu, Qubes and Slackware (france and finland, currently migrating to docker and larger storage)"
 
 publications:
   title: Publications
