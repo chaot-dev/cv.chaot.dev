@@ -94,7 +94,7 @@ experiences:
       - 1st and 2nd level support with a focus on English speaking users
       - revamp of the ticket / call logging processes including basic change management
 
-  - role: Network Infrastructure and Servicedesk Analyst
+  - role: Network Infrastructure (servicedesk analyst)
     time: 2012 - 2018
     company: IFCO Systems GmbH
     details: |
@@ -106,13 +106,22 @@ experiences:
       - Storage Administration (NetApp, EMC/Dell Storage)
         - on-site backup, tape backup, metro clustering, storage migration (NetApp -> EMC)
 
-  - role: Network Infrastructure Company demerge
+  - role: Network Infrastructure (projects and company demerge)
     time: 2018 - 2019
     company: IFCO Systems GmbH
     details: |
+      - planning and forming the azure cloud migration of core services (mail, file, ad, mobile)
+      - decommisioning of on-premise services
       - infrastructure demerge as part of a company split 
-      - rebuild IT services, infrastructure 
+      - rebuild IT services, infrastructure helpdesks as result of company split
       - Office 365 / Azure AD migration (backend and clients)
+
+  - role: Linux Professional Institute Certification Programme (LPIC 1 - 3)
+    time: 2019 - 2020
+    company: redacted
+    details: |
+      - full-time trainings and certifications for LPIC 1 and 2
+      - LPIC 3 focussing on high availability and clustering
 
 projects:
   title: Projects
@@ -143,7 +152,7 @@ projects:
 publications:
   title: Publications
   intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
+    Lorem ipsum dolor sit
     amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
     bibendum fringilla a eu lectus.
 
