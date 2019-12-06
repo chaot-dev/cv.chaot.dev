@@ -36,13 +36,13 @@ sidebar:
 
   interests:
     - item: Hiking
-      link: datastudio.google.com/s/nVkyQIgIYSo
+      link: https://datastudio.google.com/s/nVkyQIgIYSo
 
     - item: Biking
-      link: datastudio.google.com/s/nVkyQIgIYSo
+      link: https://datastudio.google.com/s/nVkyQIgIYSo
 
     - item: Music
-      link: last.fm/user/ridelore/listening-report/week
+      link: https://last.fm/user/ridelore/listening-report/week
 
 career-profile:
   title: Profile
@@ -175,7 +175,7 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-    - name: Computer Networks 
+    - name: Computer Networks
       level: 98%
 
     - name: Automation and Deployemnt
