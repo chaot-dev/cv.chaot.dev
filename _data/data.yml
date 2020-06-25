@@ -63,9 +63,9 @@ sidebar:
 career-profile:
   title: Profil
   summary: |
-    Sysop mit 10 Jahren Berfuserfahrung in mittelständischen Betrieben sowie global agierenden Grossunternehmen. 
+    Sysop mit 10 Jahren Berufserfahrung in mittelständischen Betrieben sowie global agierenden Großunternehmen. 
     Kreativität und flexibilität bestimmen meinen Umgang mit Problemen.
-    Ich trage stets zu einem angehmen Arbeitsumfeld in meinem Team bei.
+    Ich trage stets zu einem angenehmen Arbeitsumfeld in meinem Team bei.
     Erweiterte Kompetenzen im Bereich Projekt-Management dank meiner letzten Job-Position.
 
 #education:
@@ -192,7 +192,7 @@ experiences:
       - 1 Jahr fokussiert im IT-Servicedesk tätig
       - Studentenaustausch mit dem Waukesha Technical College (Wisconsin, US)
         - Zertifizierung "Paralegal"
-  - role: Fachinformatikier (IHK)
+  - role: Fachinformatiker(IHK)
     time: 2014 - 2015
     company: Hochschule Wismar
     details: |
@@ -201,11 +201,11 @@ experiences:
     time: 2011 - 2012
     company: IFCO Systems GmbH
     details: |
-      - Projekarbeit (IHK) "Migration eines Druckservers und Clients auf Windows Server 2008 R2"
+      - Projektarbeit (IHK) "Migration eines Druckservers und Clients auf Windows Server 2008 R2"
       - 1st und 2nd level support mit Fokus auf englischsprachige Anwender
       - Reorganisation des Ticketsystems nach ITIL
       - Jobangebot nach erfolgreichem Abschluss meiner Projektarbeit
-  - role: Netzwerk und Infrastruktur (Servicedesk Analyst)
+  - role: Netzwerk und Infrastruktur (Service Desk Analyst)
     time: 2012 - 2018
     company: IFCO Systems GmbH
     details: |
@@ -213,21 +213,21 @@ experiences:
       - Blackberry Server Migration BES 5.x auf BES 10 für Anwender in Europa
       - Migration von Windows XP / Office 2003 auf Windows 7 / Office 2010
       - Software-Paketierung und Deployment
-      - Datenzentrum Maintanance / Client Maintanance (cisco IOS, Windows Server 2003 - 2016, Debian Linux, RHEL, Fedora, Windows XP - 10)
+      - Datenzentrum Maintenance (cisco IOS, Windows Server 2003 - 2016, Debian Linux, RHEL, Fedora, Windows XP - 10)
       - Storage Administration (NetApp, EMC/Dell Storage)
         - on-site backup, tape backup, metro clustering, storage migration (NetApp -> EMC)
   - role: Netzwerk und Infrastruktur (Projekte und Merger)
     time: 2018 - 2019
     company: IFCO Systems GmbH
     details: |
-      - theoretische Planung und Umsetung der Azure Cloud Migration der Core-Systeme (Mail, Storage, Active-Directory, Mobil)
+      - theoretische Planung und Umsetzung der Azure Cloud Migration der Core-Systeme (Mail, Storage, Active-Directory, Mobil)
       - Dekommisionierung der "On-Premise" Systeme und Umzug in die Cloud
-      - Absplittung von Mutterkonzern und die damit verbundene Rückmigration auf eigene Systeme und Services
-      - Planung der neuen IT Dienste, Infrastruktur und Helpdesks als Resultat der Absplittung vom Mutterkonzern
+      - Abspaltung vom Mutterkonzern und die damit verbundene Rückmigration auf eigene Systeme und Services
+      - Planung der neuen IT Dienste, Infrastruktur und Helpdesks als Resultat der Abspaltung vom Mutterkonzern
       - Office 365 / Azure AD Migration (Backend sowie Clients)
-  - role: Linux Professional Institute Certification Programm (LPIC 1 + 2)
+  - role: Linux Professional Institute Certification Program (LPIC 1 + 2)
     time: 2019 - 2020
-    company: Alphatraining München
+    company: Alpha Training München
     details: |
       - Vollzeit Zertifizierung für LPIC 1+2
 
@@ -266,14 +266,14 @@ publications:
   papers:
     - title: MOC20410
       authors: Microsoft
-      conference: Installieren und verwalten von Winodws Server 2012
+      conference: Installieren und verwalten von Windows Server 2012
 
     - title: Jedox System Administrator
       authors: Jedox Akademie
       conference: Deployment und Konfiguration des Jedox Client und Server
 
     - title: LPIC 1 + 2
-      authors: Linux Professional Institut
+      authors: Linux Professional Institute
       conference: Linux System Administrator
 
 #skills:
@@ -285,7 +285,7 @@ skills:
     - name: Computer Netzwerke
       level: 90%
 
-    - name: Automatisierung und Deployemnt
+    - name: Automatisierung und Deployment
       level: 80%
 
     - name: Bash und Powershell
