@@ -1,12 +1,12 @@
 #Update all the sections by editing the data.yml file inside _data folder.
 
 # Site Settings
-title: Hire me! Martin's CV a literal work in progress
+title: Martin's CV
 url: "https://cv.inferior.dev"
 baseurl: "/" #change it according to your repository name
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: turquoise # blue turquoise green berry orange ceramic
-chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
+chrome_mobile_color: #4EAC9E #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
 
 # Tracker
 analytics: UA-81179759-3
