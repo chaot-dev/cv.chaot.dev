@@ -151,8 +151,8 @@ projects:
 
 publications:
   title: Certifications, Qualifications and Refrences
-  intro: |
-    My Certifications and Qualifications
+#  intro: |
+#    My Certifications and Qualifications
 
   papers:
     - title: MOC20410
