@@ -216,7 +216,7 @@ experiences:
       - Datenzentrum Maintanance / Client Maintanance (cisco IOS, Windows Server 2003 - 2016, Debian Linux, RHEL, Fedora, Windows XP - 10)
       - Storage Administration (NetApp, EMC/Dell Storage)
         - on-site backup, tape backup, metro clustering, storage migration (NetApp -> EMC)
-  - role: Netzwerk und Infrastruktur (Projekte und Unternehmens-Fusion)
+  - role: Netzwerk und Infrastruktur (Projekte und Merger)
     time: 2018 - 2019
     company: IFCO Systems GmbH
     details: |
