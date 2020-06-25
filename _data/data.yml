@@ -14,13 +14,13 @@ sidebar:
   # Sidebar links
   email: m@rtin.ms
   phone: +49 172 69 55 45 1
-  website: #do not add http://
+  website: inferior.dev #do not add http://
   linkedin:
   github: phixion
   gitlab:
   bitbucket:
   twitter: "@ridelore"
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  stack-overflow: 12476363/phixion # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
 
@@ -30,9 +30,6 @@ sidebar:
 
     - idiom: English
       level: Professional
-
-    - idiom: French
-      level: can order drinks
 
   interests:
     - item: Hiking
@@ -161,17 +158,17 @@ publications:
     bibendum fringilla a eu lectus.
 
   papers:
-    - title: Lorem ipsum dolor sit
-      authors: Donald E. Knuth
-      conference: Addison-Wesley, 1968
+    - title: MOC20410
+      authors: Microsoft
+      conference: Installing nad Configuring Microsoft Winodws Server 2012
 
-    - title: "Vestibulum et ligula in nunc"
-      authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-      conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+    - title: Jedox System Administrator
+      authors: Jedox Akademie
+      conference: Deployment and Configuration of Jedox Client and Server
 
-    - title: Bibendum fringilla a eu lectus.
-      authors: Edgar T. Irons
-      conference: "Comm. ACM 4 (1961), 51–55"
+    - title: LPIC 1 + 2
+      authors: Linux Professional Institute
+      conference: Linux System Administrator
 
 skills:
   title: Skills &amp; Proficiency
