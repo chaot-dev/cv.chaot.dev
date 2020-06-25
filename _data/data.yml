@@ -235,7 +235,6 @@ projects:
   title: Projekte
   intro: >
     Eine Auswahl von Projekten, an denen ich arbeite / zu denen ich aktiv beitrage
-
   assignments:
     - title: UR44-Patch
       link: "https://github.com/phixion/arch_steinberg_ur44_patch"
