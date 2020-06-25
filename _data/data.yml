@@ -91,18 +91,17 @@ education:
     university: Berufliches Gymnasium des Unstrut-Hainich-Kreises
     time: 1999 - 2003
     details: |
-      fokus auf Datenverarbeitung
+      Fokus auf Datenverarbeitung und Technik
   - degree: Anglistik / Wirtschaftswissenschaften
     university: Friedrich Schiller Universität Jena
     time: 2004 - 2006
     details: |
-      Grundstudium in Anglistik / Wirtschaftswissenschaften
-
-  - degree: Fachinformatiker für Systemintegration
+      Grundstudium in Anglistik und Wirtschaftswissenschaften
+  - degree: Fachinformatiker
     university: Hochschule Wismar
     time: 2010 - 2011
     details: |
-      - IHK Ausbildung zum Fachinformatiker mit Schwerpunkt Systemintegration
+      - IHK Abschluss als Fachinformatiker mit Schwerpunkt Systemintegration
 
 #experiences:
 #  - role: Legal Assistant (IHK)
