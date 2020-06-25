@@ -31,15 +31,15 @@ sidebar:
     - idiom: Englisch
       level: Professionell
 
-#  interests:
-#    - item: Hiking
-#      link: https://datastudio.google.com/s/nVkyQIgIYSo
-#
-#    - item: Biking
-#      link: https://datastudio.google.com/s/nVkyQIgIYSo
-#
-#    - item: Music
-#      link: https://last.fm/user/ridelore/listening-report/week
+  #  interests:
+  #    - item: Hiking
+  #      link: https://datastudio.google.com/s/nVkyQIgIYSo
+  #
+  #    - item: Biking
+  #      link: https://datastudio.google.com/s/nVkyQIgIYSo
+  #
+  #    - item: Music
+  #      link: https://last.fm/user/ridelore/listening-report/week
   interests:
     - item: Wandern
       link: https://datastudio.google.com/s/nVkyQIgIYSo
@@ -55,7 +55,7 @@ sidebar:
 #  summary: |
 #    Sysop with 10 years of experience in busineses ranging from middle-market companies to global cooperations.
 #    Creativity and flexibility shaped my way of coping with issues as you only face problems you didn't take into consideration and planned ahead for.
-#    Contribute to an enjoyable working environment within my team 
+#    Contribute to an enjoyable working environment within my team
 #    I developed and extended my skills in coordination and managing of projects especially in my last position.
 #    "Good stress" has always been a driver for my work, staying calm and rational and always keep the ball moving during sprints and critical phases.
 #    Evaluate and establish open source software in my work environments; not on every ocasion possible but when there's clearly benefits over enterprise products.
@@ -91,7 +91,7 @@ education:
     university: Berufliches Gymnasium des Unstrut-Hainich-Kreises
     time: 1999 - 2003
     details: |
-      fokus auf Datenverarbeitung 
+      fokus auf Datenverarbeitung
   - degree: Anglistik und Wirtschaftswissenschaften
     university: Friedrich Schiller Universität Jena
     time: 2004 - 2006
@@ -147,7 +147,7 @@ education:
 #    details: |
 #      - planning and forming the azure cloud migration of core services (mail, file, ad, mobile)
 #      - decommisioning of on-premise services
-#      - infrastructure demerge as part of a company split 
+#      - infrastructure demerge as part of a company split
 #      - rebuild IT services, infrastructure helpdesks as result of company split
 #      - Office 365 / Azure AD migration (backend and clients)
 #
@@ -184,7 +184,6 @@ education:
 #      tagline: "(docker, bash) Hosting package repositories/iso archives for Archlinux, Tails, Ubuntu, Qubes and Slackware (france and finland, currently migrating to docker and larger storage)"
 
 experiences:
-  title: Beruflicher Werdegang
   - role: Rechtsanwaltsfachangestellter (IHK)
     time: 2006 - 2009
     company: Allen & Overy LLP
