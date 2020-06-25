@@ -8,7 +8,7 @@ sidebar:
 
   # Profile information
   name: Martin Spitz
-  tagline: SYSOPS
+  tagline: SYSOP
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -66,7 +66,7 @@ career-profile:
     Sysop mit 10 Jahren Berfuserfahrung in mittelständischen Betrieben sowie global agierenden Grossunternehmen. 
     Kreativität und flexibilität bestimmen meinen Umgang mit Problemen.
     Ich trage stets zu einem angehmen Arbeitsumfeld in meinem Team bei.
-    Ich habe meine Fähigkeiten im bereich Projekt-Management, speziell in meiner letzten Position, stark erweitert.
+    Erweiterte Kompetenzen im Bereich Projekt-Management dank meiner letzten Job-Position.
 
 #education:
 #  - degree: Technical College
@@ -199,35 +199,35 @@ experiences:
     details: |
       - Fachinformatiker für Systemintegration
 
-  - role: Network Infrasctructure (Praktikant)
+  - role: Techniker Netzwerk und Infrastruktur (Praktikant)
     time: 2011 - 2012
     company: IFCO Systems GmbH
     details: |
       - Projekarbeit (IHK) "Migration eines Druckservers und Clients auf Windows Server 2008 R2"
-      - 1st und 2nd level support mit fokus auf englischsprachige Anwender
-      - reorganisation des Ticketsystems nach ITIL
+      - 1st und 2nd level support mit Fokus auf englischsprachige Anwender
+      - Reorganisation des Ticketsystems nach ITIL
       - Jobangebot nach erfolgreichem Abschluss meiner Projektarbeit
 
-  - role: Netzwerk und Infrastruktur (Servicedesk Analyst)
+  - role: Techniker Netzwerk und Infrastruktur (Servicedesk Analyst)
     time: 2012 - 2018
     company: IFCO Systems GmbH
     details: |
-      - reallokation der IP-address Bereiche im Zuge einer Infrastruktur Migration
+      - Reallokation der IP-Address Bereiche im Zuge einer Infrastruktur Migration
       - Blackberry Server Migration BES 5.x auf BES 10 für Anwender in Europa
-      - migration von Windows XP / Office 2003 auf Windows 7 / Office 2010
+      - Migration von Windows XP / Office 2003 auf Windows 7 / Office 2010
       - Software-Paketierung und Deployment
-      - Datenzentrum Maintanance / Client Maintanance(cisco IOS, Windows Server 2003 - 2016, Debian Linux, RHEL, Fedora, Windows XP - 10)
+      - Datenzentrum Maintanance / Client Maintanance (cisco IOS, Windows Server 2003 - 2016, Debian Linux, RHEL, Fedora, Windows XP - 10)
       - Storage Administration (NetApp, EMC/Dell Storage)
         - on-site backup, tape backup, metro clustering, storage migration (NetApp -> EMC)
 
-  - role: Netzwerk und Infrastruktur (Projekte und Unternehmens-Fusion)
+  - role: Techniker Netzwerk und Infrastruktur (Projekte und Unternehmens-Fusion)
     time: 2018 - 2019
     company: IFCO Systems GmbH
     details: |
-      - theoretische Planung der Azure Cloud Migration unserer Core-Systeme (Mail, Storage, Active-Directory, Mobil)
-      - Dekommisionierung der "On-Premise" Systeme
-      - Absplittung von Mutterunternehmen und die damit verbundene Rückmigration auf eigene Systeme und Services
-      - Planung der neuen IT Services, Infrastruktur, Helpdesks als Resultat der Absplittung vom Mutterkonzern
+      - theoretische Planung und Umsetung der Azure Cloud Migration der Core-Systeme (Mail, Storage, Active-Directory, Mobil)
+      - Dekommisionierung der "On-Premise" Systeme und Umzug in die Cloud
+      - Absplittung von Mutterkonzern und die damit verbundene Rückmigration auf eigene Systeme und Services
+      - Planung der neuen IT Dienste, Infrastruktur und Helpdesks als Resultat der Absplittung vom Mutterkonzern
       - Office 365 / Azure AD Migration (Backend sowie Clients)
 
   - role: Linux Professional Institute Certification Programm (LPIC 1 + 2)
