@@ -192,14 +192,12 @@ experiences:
       - 1 Jahr fokussiert im IT-Servicedesk tätig
       - Studentenaustausch mit dem Waukesha Technical College (Wisconsin, US)
         - Zertifizierung "Paralegal"
-
   - role: Fachinformatikier (IHK)
     time: 2014 - 2015
     company: Hochschule Wismar
     details: |
       - Fachinformatiker für Systemintegration
-
-  - role: Techniker Netzwerk und Infrastruktur (Praktikant)
+  - role: Netzwerk und Infrastruktur (Praktikant)
     time: 2011 - 2012
     company: IFCO Systems GmbH
     details: |
@@ -207,8 +205,7 @@ experiences:
       - 1st und 2nd level support mit Fokus auf englischsprachige Anwender
       - Reorganisation des Ticketsystems nach ITIL
       - Jobangebot nach erfolgreichem Abschluss meiner Projektarbeit
-
-  - role: Techniker Netzwerk und Infrastruktur (Servicedesk Analyst)
+  - role: Netzwerk und Infrastruktur (Servicedesk Analyst)
     time: 2012 - 2018
     company: IFCO Systems GmbH
     details: |
@@ -219,8 +216,7 @@ experiences:
       - Datenzentrum Maintanance / Client Maintanance (cisco IOS, Windows Server 2003 - 2016, Debian Linux, RHEL, Fedora, Windows XP - 10)
       - Storage Administration (NetApp, EMC/Dell Storage)
         - on-site backup, tape backup, metro clustering, storage migration (NetApp -> EMC)
-
-  - role: Techniker Netzwerk und Infrastruktur (Projekte und Unternehmens-Fusion)
+  - role: Netzwerk und Infrastruktur (Projekte und Unternehmens-Fusion)
     time: 2018 - 2019
     company: IFCO Systems GmbH
     details: |
@@ -229,18 +225,42 @@ experiences:
       - Absplittung von Mutterkonzern und die damit verbundene Rückmigration auf eigene Systeme und Services
       - Planung der neuen IT Dienste, Infrastruktur und Helpdesks als Resultat der Absplittung vom Mutterkonzern
       - Office 365 / Azure AD Migration (Backend sowie Clients)
-
   - role: Linux Professional Institute Certification Programm (LPIC 1 + 2)
     time: 2019 - 2020
     company: Alphatraining München
     details: |
       - Vollzeit Zertifizierung für LPIC 1+2
 
+projects:
+  title: Projekte
+  intro: >
+    Eine Auswahl von Projekten, an denen ich arbeite / zu denen ich aktiv beitrage
+
+  assignments:
+    - title: UR44-Patch
+      link: "https://github.com/phixion/arch_steinberg_ur44_patch"
+      tagline: "(c) Kernel Patch für Steinberg UR44 USB Audio Interface"
+
+    - title: Sopel-Modules
+      link: "https://github.com/phixion/sopel-modules"
+      tagline: "(python 2 und 3) Eine Sammlung von Modulen für das hoch erweiterbare IRC-Bot-Framework Sopel."
+
+    - title: NV-Update
+      link: "https://github.com/lord-carlos/nvidia-update"
+      tagline: "(powershell) Skript zum automatischen Herunterladen und Aktualisieren von NVIDIA-Treibern"
+
+    - title: dynufw
+      link: "https://github.com/phixion/dynufw"
+      tagline: "(bash) Dynamische aktualisierung von Firewall Regeln (für Dial-Up oder mobile Verbindungen)"
+
+    - title: PKG-Mirror
+      link: "https://github.com/phixion/archmirror"
+      tagline: "(docker, bash) Hosting von Paket-Repositories / ISO-Archiven für Archlinux, Tails, Ubuntu, Qubes und Slackware"
 #publications:
 #  title: Certifications, Qualifications and Refrences
 #  intro: |
 #    My Certifications and Qualifications
-
+#
 publications:
   title: Zertifizierungen und Qualifikationen
 
