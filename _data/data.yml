@@ -14,7 +14,7 @@ sidebar:
   # Sidebar links
   email: m@rtin.ms
   phone: +49 172 69 55 45 1
-  website: inferior.dev #do not add http://
+  website: inferior.dev # do not add http://
   linkedin:
   github: phixion
   gitlab:
@@ -117,12 +117,11 @@ experiences:
       - rebuild IT services, infrastructure helpdesks as result of company split
       - Office 365 / Azure AD migration (backend and clients)
 
-  - role: Linux Professional Institute Certification Programme (LPIC 1 - 3)
+  - role: Linux Professional Institute Certification Programme (LPIC 1 + 2)
     time: 2019 - 2020
-    company: A Company in Munich
+    company: Alphatraining Munich
     details: |
       - full-time trainings and certifications for LPIC 1 and 2
-      - LPIC 3 focussing on high availability and clustering
 
 projects:
   title: Projects
@@ -153,9 +152,7 @@ projects:
 publications:
   title: Certifications, Qualifications and Refrences
   intro: |
-    Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
+    My Certifications and Qualifications
 
   papers:
     - title: MOC20410
@@ -175,16 +172,18 @@ skills:
 
   toolset:
     - name: Computer Networks
-      level: 98%
+      level: 90%
 
     - name: Automation and Deployemnt
-      level: 90%
+      level: 80%
 
     - name: Bash and Powershell
       level: 80%
 
     - name: Python
-      level: 70%
+      level: 50%
 
-footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  # footer: >
+  #  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  footer: >
+    <a href="//inferior.dev" target="_blank" rel="nofollow">Martin Spitz</a> 2020
