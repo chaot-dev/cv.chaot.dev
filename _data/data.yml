@@ -25,8 +25,8 @@ sidebar:
   goodreads: # Number-Username, e.g. 123456-alandoe
 
   languages:
-    - idiom: German
-      level: Nativ
+    - idiom: Deutsch
+      level: Muttersprache
 
     - idiom: Englisch
       level: Professionell
