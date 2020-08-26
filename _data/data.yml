@@ -63,10 +63,10 @@ sidebar:
 career-profile:
   title: Profil
   summary: |
-    Sysop mit 10 Jahren Berufserfahrung in mittelständischen Betrieben sowie global agierenden Großunternehmen. 
-    Kreativität und flexibilität bestimmen meinen Umgang mit Problemen.
-    Ich trage stets zu einem angenehmen Arbeitsumfeld in meinen Teams bei.
-    Erweiterte Kompetenzen im Bereich Projekt-Management dank meiner letzten Job-Position.
+    - Sysop mit 10 Jahren Berufserfahrung in mittelständischen Betrieben sowie global agierenden Großunternehmen. 
+    - Kreativität und flexibilität bestimmen meinen Umgang mit Problemen.
+    - Ich trage stets zu einem angenehmen Arbeitsumfeld in meinen Teams bei.
+    - Erweiterte Kompetenzen im Bereich Projekt-Management dank meiner letzten Job-Position.
 
 #education:
 #  - degree: Technical College
@@ -195,7 +195,7 @@ experiences:
     time: 2010 - 2011
     company: Hochschule Wismar
     details: |
-      - Fachinformatiker für Systemintegration
+      - Ausbildung als Fachinformatiker für Systemintegration
   - role: Netzwerk und Infrastruktur (Praktikant)
     time: 2011 - 2012
     company: IFCO Systems GmbH
@@ -271,9 +271,9 @@ publications:
       authors: Jedox Akademie
       conference: Deployment und Konfiguration des Jedox Client und Server
 
-    - title: LPIC 1 + 2
-      authors: Linux Professional Institute
-      conference: Linux System Administrator
+#    - title: LPIC 1 + 2
+#      authors: Linux Professional Institute
+#      conference: Linux System Administrator
 
 #skills:
 #  title: Skills &amp; Proficiency
