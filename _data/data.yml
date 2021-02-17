@@ -196,14 +196,20 @@ experiences:
     company: Hochschule Wismar
     details: |
       - Ausbildung als Fachinformatiker für Systemintegration
-  - role: Netzwerk und Infrastruktur (Praktikant)
-    time: 2011 - 2012
+  - role: Linux Professional Institute Certification Program (LPIC 1 + 2)
+    time: 2019 - 2020
+    company: Alpha Training München
+    details: |
+      - Vollzeit Zertifizierung für LPIC 1+2
+  - role: Netzwerk und Infrastruktur (Projekte und Merger)
+    time: 2018 - 2019
     company: IFCO Systems GmbH
     details: |
-      - Projektarbeit (IHK) "Migration eines Druckservers und Clients auf Windows Server 2008 R2"
-      - 1st und 2nd level support mit Fokus auf englischsprachige Anwender
-      - Reorganisation des Ticketsystems nach ITIL
-      - Jobangebot nach erfolgreichem Abschluss meiner Projektarbeit
+      - theoretische Planung und Umsetzung der Azure Cloud Migration der Core-Systeme (Mail, Storage, Active-Directory, Mobil)
+      - Dekommisionierung der "On-Premise" Systeme und Umzug in die Cloud
+      - Abspaltung vom Mutterkonzern und die damit verbundene Rückmigration auf eigene Systeme und Services
+      - Planung der neuen IT Dienste, Infrastruktur und Helpdesks als Resultat der Abspaltung vom Mutterkonzern
+      - Office 365 / Azure AD Migration (Backend sowie Clients)
   - role: Netzwerk und Infrastruktur (Service Desk Analyst)
     time: 2012 - 2018
     company: IFCO Systems GmbH
@@ -215,23 +221,16 @@ experiences:
       - Datenzentrum Maintenance (cisco IOS, Windows Server 2003 - 2016, Debian Linux, RHEL, Fedora, Windows XP - 10)
       - Storage Administration (NetApp, EMC/Dell Storage)
         - on-site backup, tape backup, metro clustering, storage migration (NetApp -> EMC)
-  - role: Netzwerk und Infrastruktur (Projekte und Merger)
-    time: 2018 - 2019
+      projects:
+  - role: Netzwerk und Infrastruktur (Praktikant)
+    time: 2011 - 2012
     company: IFCO Systems GmbH
     details: |
-      - theoretische Planung und Umsetzung der Azure Cloud Migration der Core-Systeme (Mail, Storage, Active-Directory, Mobil)
-      - Dekommisionierung der "On-Premise" Systeme und Umzug in die Cloud
-      - Abspaltung vom Mutterkonzern und die damit verbundene Rückmigration auf eigene Systeme und Services
-      - Planung der neuen IT Dienste, Infrastruktur und Helpdesks als Resultat der Abspaltung vom Mutterkonzern
-      - Office 365 / Azure AD Migration (Backend sowie Clients)
-  - role: Linux Professional Institute Certification Program (LPIC 1 + 2)
-    time: 2019 - 2020
-    company: Alpha Training München
-    details: |
-      - Vollzeit Zertifizierung für LPIC 1+2
-
-projects:
-  title: Projekte
+      - Projektarbeit (IHK) "Migration eines Druckservers und Clients auf Windows Server 2008 R2"
+      - 1st und 2nd level support mit Fokus auf englischsprachige Anwender
+      - Reorganisation des Ticketsystems nach ITIL
+      - Jobangebot nach erfolgreichem Abschluss meiner Projektarbeit
+        title: Projekte
   intro: >
     Eine Auswahl von Projekten, an denen ich arbeite / zu denen ich aktiv beitrage
   assignments:
