@@ -216,6 +216,11 @@ experiences:
       - 1st und 2nd level support mit Fokus auf englischsprachige Anwender
       - Reorganisation des Ticketsystems nach ITIL
       - Jobangebot nach erfolgreichem Abschluss meiner Projektarbeit
+  - role: Fachinformatiker (IHK)
+    time: 2010 - 2011
+    company: Hochschule Wismar
+    details: |
+      - Ausbildung als Fachinformatiker für Systemintegration
   - role: Rechtsanwaltsfachangestellter (IHK)
     time: 2006 - 2009
     company: Allen & Overy LLP
@@ -224,11 +229,7 @@ experiences:
       - 1 Jahr fokussiert im IT-Servicedesk tätig
       - Studentenaustausch mit dem Waukesha Technical College (Wisconsin, US)
         - Zertifizierung "Paralegal"
-  - role: Fachinformatiker (IHK)
-    time: 2010 - 2011
-    company: Hochschule Wismar
-    details: |
-      - Ausbildung als Fachinformatiker für Systemintegration
+
 projects:
   title: Projekte
   intro: >
