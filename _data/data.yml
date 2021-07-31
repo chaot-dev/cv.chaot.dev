@@ -25,269 +25,278 @@ sidebar:
   goodreads: # Number-Username, e.g. 123456-alandoe
 
   languages:
-    - idiom: Deutsch
-      level: Muttersprache
+    - idiom: German
+      level: 100%
 
-    - idiom: Englisch
-      level: fließend
+    - idiom: English
+      level: 80%
 
-  #  interests:
-  #    - item: Hiking
-  #      link: https://datastudio.google.com/s/nVkyQIgIYSo
-  #
-  #    - item: Biking
-  #      link: https://datastudio.google.com/s/nVkyQIgIYSo
-  #
-  #    - item: Music
-  #      link: https://last.fm/user/ridelore/listening-report/week
   interests:
-    - item: Wandern
+    - item: Hiking
       link: https://datastudio.google.com/s/nVkyQIgIYSo
 
-    - item: Fahrrad fahren
+    - item: Biking
       link: https://datastudio.google.com/s/nVkyQIgIYSo
 
-    - item: Musik
+    - item: Music
       link: https://last.fm/user/ridelore/listening-report/week
+#  interests:
+#    - item: Wandern
+#      link: https://datastudio.google.com/s/nVkyQIgIYSo
+#
+#    - item: Fahrrad fahren
+#      link: https://datastudio.google.com/s/nVkyQIgIYSo
+#
+#    - item: Musik
+#      link: https://last.fm/user/ridelore/listening-report/week
+#
+career-profile:
+  title: Profile
+  summary: |
+    Sysop with 10 years of experience in busineses ranging from middle-market companies to global cooperations.
+    Creativity and flexibility shaped my way of coping with issues as you only face problems you didn't take into consideration and planned ahead for.
+    Contribute to an enjoyable working environment within my team
+    I developed and extended my skills in coordination and managing of projects especially in my last position.
+    "Good stress" has always been a driver for my work, staying calm and rational and always keep the ball moving during sprints and critical phases.
+    Evaluate and establish open source software in my work environments; not on every ocasion possible but when there's clearly benefits over enterprise products.
 
 #career-profile:
-#  title: Profile
+#  title: Profil
 #  summary: |
-#    Sysop with 10 years of experience in busineses ranging from middle-market companies to global cooperations.
-#    Creativity and flexibility shaped my way of coping with issues as you only face problems you didn't take into consideration and planned ahead for.
-#    Contribute to an enjoyable working environment within my team
-#    I developed and extended my skills in coordination and managing of projects especially in my last position.
-#    "Good stress" has always been a driver for my work, staying calm and rational and always keep the ball moving during sprints and critical phases.
-#    Evaluate and establish open source software in my work environments; not on every ocasion possible but when there's clearly benefits over enterprise products.
-
-career-profile:
-  title: Profil
-  summary: |
-    - Sysop mit 10 Jahren Berufserfahrung in mittelständischen Betrieben sowie global agierenden Großunternehmen. 
-    - Kreativität und flexibilität bestimmen meinen Umgang mit Problemen.
-    - Ich trage stets zu einem angenehmen Arbeitsumfeld in meinen Teams bei.
-    - Erweiterte Kompetenzen im Bereich Projekt-Management dank meiner letzten Job-Position.
-
-#education:
-#  - degree: Technical College
-#    university: Berufliches Gymnasium des Unstrut-Hainich-Kreises
-#    time: 1999 - 2003
-#    details: |
-#      focused on electronic dataprocessing / computer science
-#  - degree: Anglistics and Business Science
-#    university: Friedrich Schiller Universität Jena
-#    time: 2004 - 2006
-#    details: |
-#      studies in Anglistics and Business Science
-#
-#  - degree: Professional Computer Scientist
-#    university: Hochschule Wismar
-#    time: 2014 - 2015
-#    details: |
-#      - certified IT Specialist, qualified for systems integration and networks (IHK)
+#    - Sysop mit 10 Jahren Berufserfahrung in mittelständischen Betrieben sowie global agierenden Großunternehmen.
+#    - Kreativität und flexibilität bestimmen meinen Umgang mit Problemen.
+#    - Ich trage stets zu einem angenehmen Arbeitsumfeld in meinen Teams bei.
+#    - Erweiterte Kompetenzen im Bereich Projekt-Management dank meiner letzten Job-Position.
 
 education:
-  - degree: Technisches Gymnasium
+  - degree: Technical College
     university: Berufliches Gymnasium des Unstrut-Hainich-Kreises
     time: 1999 - 2003
     details: |
-      Fokus auf Datenverarbeitung und Technik
-  - degree: Anglistik / Wirtschaftswissenschaften
+      focused on electronic dataprocessing / computer science
+  - degree: Anglistics and Business Science
     university: Friedrich Schiller Universität Jena
     time: 2004 - 2006
     details: |
-      Grundstudium in Anglistik und Wirtschaftswissenschaften
-  - degree: Fachinformatiker
-    university: Hochschule Wismar
-    time: 2010 - 2011
-    details: |
-      - IHK Abschluss als Fachinformatiker mit Schwerpunkt Systemintegration
+      studies in Anglistics and Business Science
 
-#experiences:
-#  - role: Legal Assistant (IHK)
-#    time: 2006 - 2009
-#    company: Allen & Overy LLP
+  - degree: Professional Computer Scientist
+    university: Hochschule Wismar
+    time: 2014 - 2015
+    details: |
+      - certified IT Specialist, qualified for systems integration and networks (IHK)
+
+#education:
+#  - degree: Technisches Gymnasium
+#    university: Berufliches Gymnasium des Unstrut-Hainich-Kreises
+#    time: 1999 - 2003
 #    details: |
-#      - apprenticeship as a legal assistant
-#      - 1 year focused on first- and second-level support at IT-Servicedesk
-#      - student exchange at Waukesha Technical College (Wisconsin, US)
-#        - certification as paralegal
-#
-#  - role: Professional Computer Scientist (IHK)
-#    time: 2014 - 2015
-#    company: Hochschule Wismar
+#      Fokus auf Datenverarbeitung und Technik
+#  - degree: Anglistik / Wirtschaftswissenschaften
+#    university: Friedrich Schiller Universität Jena
+#    time: 2004 - 2006
 #    details: |
-#      - certified IT Specialist, qualified for systems integration and networks
-#
-#  - role: Network Infrasctructure (intern)
-#    time: 2011 - 2012
-#    company: IFCO Systems GmbH
+#      Grundstudium in Anglistik und Wirtschaftswissenschaften
+#  - degree: Fachinformatiker
+#    university: Hochschule Wismar
+#    time: 2010 - 2011
 #    details: |
-#      - project lead migration of print servers and clients to Windows Server 2008 R2
-#      - 1st and 2nd level support with a focus on English speaking users
-#      - revamp of the ticket / call logging processes including basic change management
-#      - after my successful migration I was offered a permament job
-#
-#  - role: Network Infrastructure (servicedesk analyst)
-#    time: 2012 - 2018
-#    company: IFCO Systems GmbH
-#    details: |
-#      - reallocating the IP-address space for the current IFCO sites as part of a infrastructure migration with another company
-#      - replacement of Blackberry devices for Europe including migration from BES 5.x to BES 10
-#      - migration from Windows XP / Office 2003 to Windows 7 / Office 2010
-#      - software packaging and deployment
-#      - datacenter, server, client and network maintanance (cisco IOS, Windows Server 2003 - 2016, Debian Linux, RHEL, Fedora, Windows XP - 10)
-#      - Storage Administration (NetApp, EMC/Dell Storage)
-#        - on-site backup, tape backup, metro clustering, storage migration (NetApp -> EMC)
-#
-#  - role: Network Infrastructure (projects and company demerge)
-#    time: 2018 - 2019
-#    company: IFCO Systems GmbH
-#    details: |
-#      - planning and forming the azure cloud migration of core services (mail, file, ad, mobile)
-#      - decommisioning of on-premise services
-#      - infrastructure demerge as part of a company split
-#      - rebuild IT services, infrastructure helpdesks as result of company split
-#      - Office 365 / Azure AD migration (backend and clients)
-#
-#  - role: Linux Professional Institute Certification Programme (LPIC 1 + 2)
-#    time: 2019 - 2020
-#    company: Alphatraining Munich
-#    details: |
-#      - full-time trainings and certifications for LPIC 1 and 2
-#
-#projects:
-#  title: Projects
-#  intro: >
-#    Here's a selection of projects I am working on and/or contribute to
-#
-#  assignments:
-#    - title: UR44-Patch
-#      link: "https://github.com/phixion/arch_steinberg_ur44_patch"
-#      tagline: "(c) Kernel Patch for the Steinberg UR44 USB Audio Interface to work with Archlinux."
-#
-#    - title: Sopel-Modules
-#      link: "https://github.com/phixion/sopel-modules"
-#      tagline: "(python 2 and 3) A collection of modules for the  highly extensible IRC Bot framework Sopel."
-#
-#    - title: NV-Update
-#      link: "https://github.com/lord-carlos/nvidia-update"
-#      tagline: "(powershell) Powershell script to download and update nvidia drivers (contribution)"
-#
-#    - title: dynufw
-#      link: "https://github.com/phixion/dynufw"
-#      tagline: "(bash) Dynamically update ufw rules for dynmic destinations (i.e. dialup or mobile connections)"
-#
-#    - title: PKG-Mirror
-#      link: "https://github.com/phixion/archmirror"
-#      tagline: "(docker, bash) Hosting package repositories/iso archives for Archlinux, Tails, Ubuntu, Qubes and Slackware (france and finland, currently migrating to docker and larger storage)"
+#      - IHK Abschluss als Fachinformatiker mit Schwerpunkt Systemintegration
 
 experiences:
-  - role: Linux Professional Institute Certification Program (LPIC 1 + 2)
+  - role: Linux Professional Institute Certification Programme (LPIC 1 + 2)
     time: 2019 - 2020
-    company: Alpha Training München
+    company: Alphatraining Munich
     details: |
-      - Vollzeit Zertifizierung für LPIC 1+2
-  - role: Netzwerk und Infrastruktur (Projekte und Merger)
+      - full-time trainings and certifications for LPIC 1 and 2
+
+  - role: Network Infrastructure (projects and company demerge)
     time: 2018 - 2019
     company: IFCO Systems GmbH
     details: |
-      - theoretische Planung und Umsetzung der Azure Cloud Migration der Core-Systeme (Mail, Storage, Active-Directory, Mobil)
-      - Dekommisionierung der "On-Premise" Systeme und Umzug in die Cloud
-      - Abspaltung vom Mutterkonzern und die damit verbundene Rückmigration auf eigene Systeme und Services
-      - Planung der neuen IT Dienste, Infrastruktur und Helpdesks als Resultat der Abspaltung vom Mutterkonzern
-      - Office 365 / Azure AD Migration (Backend sowie Clients)
-  - role: Netzwerk und Infrastruktur (Service Desk Analyst)
+      - planning and forming the azure cloud migration of core services (mail, file, ad, mobile)
+      - decommisioning of on-premise services
+      - infrastructure demerge as part of a company split
+      - rebuild IT services, infrastructure helpdesks as result of company split
+      - Office 365 / Azure AD migration (backend and clients)
+
+  - role: Professional Computer Scientist (IHK)
+    time: 2014 - 2015
+    company: Hochschule Wismar
+    details: |
+      - certified IT Specialist, qualified for systems integration and networks
+
+  - role: Network Infrastructure (servicedesk analyst)
     time: 2012 - 2018
     company: IFCO Systems GmbH
     details: |
-      - Reallokation der IP-Address Bereiche im Zuge einer Infrastruktur Migration
-      - Blackberry Server Migration BES 5.x auf BES 10 für Anwender in Europa
-      - Migration von Windows XP / Office 2003 auf Windows 7 / Office 2010
-      - Software-Paketierung und Deployment
-      - Datenzentrum Maintenance (cisco IOS, Windows Server 2003 - 2016, Debian Linux, RHEL, Fedora, Windows XP - 10)
+      - reallocating the IP-address space for the current IFCO sites as part of a infrastructure migration with another company
+      - replacement of Blackberry devices for Europe including migration from BES 5.x to BES 10
+      - migration from Windows XP / Office 2003 to Windows 7 / Office 2010
+      - software packaging and deployment
+      - datacenter, server, client and network maintanance (cisco IOS, Windows Server 2003 - 2016, Debian Linux, RHEL, Fedora, Windows XP - 10)
       - Storage Administration (NetApp, EMC/Dell Storage)
-        - on-site backup, tape backup, metro clustering, storage migration (NetApp -> EMC)
-  - role: Netzwerk und Infrastruktur (Praktikant)
+      - on-site backup, tape backup, metro clustering, storage migration (NetApp -> EMC)
+
+  - role: Network Infrasctructure (intern)
     time: 2011 - 2012
     company: IFCO Systems GmbH
     details: |
-      - Projektarbeit (IHK) "Migration eines Druckservers und Clients auf Windows Server 2008 R2"
-      - 1st und 2nd level support mit Fokus auf englischsprachige Anwender
-      - Reorganisation des Ticketsystems nach ITIL
-      - Jobangebot nach erfolgreichem Abschluss meiner Projektarbeit
-  - role: Fachinformatiker (IHK)
-    time: 2010 - 2011
-    company: Hochschule Wismar
-    details: |
-      - Ausbildung als Fachinformatiker für Systemintegration
-  - role: Rechtsanwaltsfachangestellter (IHK)
+      - project lead migration of print servers and clients to Windows Server 2008 R2
+      - 1st and 2nd level support with a focus on English speaking users
+      - revamp of the ticket / call logging processes including basic change management
+      - after my successful migration I was offered a permament job
+
+  - role: Legal Assistant (IHK)
     time: 2006 - 2009
     company: Allen & Overy LLP
     details: |
-      - Ausbildung als Rechtsanwaltsfachangestellter
-      - 1 Jahr fokussiert im IT-Servicedesk tätig
-      - Studentenaustausch mit dem Waukesha Technical College (Wisconsin, US)
-        - Zertifizierung "Paralegal"
+      - apprenticeship as a legal assistant
+      - 1 year focused on first- and second-level support at IT-Servicedesk
+      - student exchange at Waukesha Technical College (Wisconsin, US)
+      - certification as paralegal
+
+  - role: Legal Assistant (IHK)
+    time: 2006 - 2009
+    company: Allen & Overy LLP
+    details: |
+      - apprenticeship as a legal assistant
+      - 1 year focused on first- and second-level support at IT-Servicedesk
+      - student exchange at Waukesha Technical College (Wisconsin, US)
+      - certification as paralegal
 
 projects:
-  title: Projekte
+  title: Projects
   intro: >
-    Eine Auswahl von Projekten, an denen ich arbeite / zu denen ich aktiv beitrage
+    Here's a selection of projects I am working on and/or contribute to
+
   assignments:
     - title: UR44-Patch
       link: "https://github.com/phixion/arch_steinberg_ur44_patch"
-      tagline: "(c) Kernel Patch für Steinberg UR44 USB Audio Interface"
+      tagline: "(c) Kernel Patch for the Steinberg UR44 USB Audio Interface to work with Archlinux."
 
     - title: Sopel-Modules
       link: "https://github.com/phixion/sopel-modules"
-      tagline: "(python 2 und 3) Eine Sammlung von Modulen für das hoch erweiterbare IRC-Bot-Framework Sopel."
+      tagline: "(python 2 and 3) A collection of modules for the  highly extensible IRC Bot framework Sopel."
 
     - title: NV-Update
       link: "https://github.com/lord-carlos/nvidia-update"
-      tagline: "(powershell) Skript zum automatischen Herunterladen und Aktualisieren von NVIDIA-Treibern"
+      tagline: "(powershell) Powershell script to download and update nvidia drivers (contribution)"
 
     - title: dynufw
       link: "https://github.com/phixion/dynufw"
-      tagline: "(bash) Dynamische aktualisierung von Firewall Regeln (für Dial-Up oder mobile Verbindungen)"
+      tagline: "(bash) Dynamically update ufw rules for dynmic destinations (i.e. dialup or mobile connections)"
 
     - title: PKG-Mirror
       link: "https://github.com/phixion/archmirror"
-      tagline: "(docker, bash) Hosting von Paket-Repositories / ISO-Archiven für Archlinux, Tails, Ubuntu, Qubes und Slackware"
-#publications:
-#  title: Certifications, Qualifications and Refrences
-#  intro: |
-#    My Certifications and Qualifications
+      tagline: "(docker, bash) Hosting package repositories/iso archives for Archlinux, Tails, Ubuntu, Qubes and Slackware (france and finland, currently migrating to docker and larger storage)"
+
+#experiences:
+#  - role: Linux Professional Institute Certification Program (LPIC 1 + 2)
+#    time: 2019 - 2020
+#    company: Alpha Training München
+#    details: |
+#      - Vollzeit Zertifizierung für LPIC 1+2
+#  - role: Netzwerk und Infrastruktur (Projekte und Merger)
+#    time: 2018 - 2019
+#    company: IFCO Systems GmbH
+#    details: |
+#      - theoretische Planung und Umsetzung der Azure Cloud Migration der Core-Systeme (Mail, Storage, Active-Directory, Mobil)
+#      - Dekommisionierung der "On-Premise" Systeme und Umzug in die Cloud
+#      - Abspaltung vom Mutterkonzern und die damit verbundene Rückmigration auf eigene Systeme und Services
+#      - Planung der neuen IT Dienste, Infrastruktur und Helpdesks als Resultat der Abspaltung vom Mutterkonzern
+#      - Office 365 / Azure AD Migration (Backend sowie Clients)
+#  - role: Netzwerk und Infrastruktur (Service Desk Analyst)
+#    time: 2012 - 2018
+#    company: IFCO Systems GmbH
+#    details: |
+#      - Reallokation der IP-Address Bereiche im Zuge einer Infrastruktur Migration
+#      - Blackberry Server Migration BES 5.x auf BES 10 für Anwender in Europa
+#      - Migration von Windows XP / Office 2003 auf Windows 7 / Office 2010
+#      - Software-Paketierung und Deployment
+#      - Datenzentrum Maintenance (cisco IOS, Windows Server 2003 - 2016, Debian Linux, RHEL, Fedora, Windows XP - 10)
+#      - Storage Administration (NetApp, EMC/Dell Storage)
+#        - on-site backup, tape backup, metro clustering, storage migration (NetApp -> EMC)
+#  - role: Netzwerk und Infrastruktur (Praktikant)
+#    time: 2011 - 2012
+#    company: IFCO Systems GmbH
+#    details: |
+#      - Projektarbeit (IHK) "Migration eines Druckservers und Clients auf Windows Server 2008 R2"
+#      - 1st und 2nd level support mit Fokus auf englischsprachige Anwender
+#      - Reorganisation des Ticketsystems nach ITIL
+#      - Jobangebot nach erfolgreichem Abschluss meiner Projektarbeit
+#  - role: Fachinformatiker (IHK)
+#    time: 2010 - 2011
+#    company: Hochschule Wismar
+#    details: |
+#      - Ausbildung als Fachinformatiker für Systemintegration
+#  - role: Rechtsanwaltsfachangestellter (IHK)
+#    time: 2006 - 2009
+#    company: Allen & Overy LLP
+#    details: |
+#      - Ausbildung als Rechtsanwaltsfachangestellter
+#      - 1 Jahr fokussiert im IT-Servicedesk tätig
+#      - Studentenaustausch mit dem Waukesha Technical College (Wisconsin, US)
+#        - Zertifizierung "Paralegal"
 #
+#projects:
+#  title: Projekte
+#  intro: >
+#    Eine Auswahl von Projekten, an denen ich arbeite / zu denen ich aktiv beitrage
+#  assignments:
+#    - title: UR44-Patch
+#      link: "https://github.com/phixion/arch_steinberg_ur44_patch"
+#      tagline: "(c) Kernel Patch für Steinberg UR44 USB Audio Interface"
+#
+#    - title: Sopel-Modules
+#      link: "https://github.com/phixion/sopel-modules"
+#      tagline: "(python 2 und 3) Eine Sammlung von Modulen für das hoch erweiterbare IRC-Bot-Framework Sopel."
+#
+#    - title: NV-Update
+#      link: "https://github.com/lord-carlos/nvidia-update"
+#      tagline: "(powershell) Skript zum automatischen Herunterladen und Aktualisieren von NVIDIA-Treibern"
+#
+#    - title: dynufw
+#      link: "https://github.com/phixion/dynufw"
+#      tagline: "(bash) Dynamische aktualisierung von Firewall Regeln (für Dial-Up oder mobile Verbindungen)"
+#
+#    - title: PKG-Mirror
+#      link: "https://github.com/phixion/archmirror"
+#      tagline: "(docker, bash) Hosting von Paket-Repositories / ISO-Archiven für Archlinux, Tails, Ubuntu, Qubes und Slackware"
 publications:
-  title: Zertifizierungen und Qualifikationen
+  title: Certifications, Qualifications and Refrences
+  intro: |
+    My Certifications and Qualifications
+
+  #publications:
+  #  title: Zertifizierungen und Qualifikationen
 
   papers:
     - title: MOC20410
       authors: Microsoft
-      conference: Installieren und verwalten von Windows Server 2012
+      conference: Installing and configuring of Windows Server 2012
 
     - title: Jedox System Administrator
       authors: Jedox Akademie
-      conference: Deployment und Konfiguration des Jedox Client und Server
+      conference: Deployment and configuration of Jedox client and server
 
-#    - title: LPIC 1 + 2
-#      authors: Linux Professional Institute
-#      conference: Linux System Administrator
+    - title: LPIC 1 + 2
+      authors: Linux Professional Institute
+      conference: LPIC-1 and 2 certified
 
-#skills:
-#  title: Skills &amp; Proficiency
 skills:
-  title: Skills &amp; Kompetenzen
+  title: Skills &amp; Proficiency
+  #skills:
+  #  title: Skills &amp; Kompetenzen
 
   toolset:
-    - name: Computer Netzwerke
+    - name: computer networks
       level: 90%
 
-    - name: Automatisierung und Deployment
+    - name: CI, automation and deployment
       level: 80%
 
-    - name: Bash und Powershell
+    - name: shell scripting
       level: 80%
 
     - name: Python
