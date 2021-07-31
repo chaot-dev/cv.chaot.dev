@@ -168,7 +168,11 @@ experiences:
 projects:
   title: Projects
   intro: >
+<<<<<<< HEAD
     Here's a selection of projects I am working on and/or contribute to
+=======
+    Eine Auswahl von Projekten, an denen ich arbeite / zu denen ich aktiv beitrage
+>>>>>>> parent of 0b0f241... germanize
 
   assignments:
     - title: UR44-Patch
