@@ -23,6 +23,7 @@ sidebar:
   stack-overflow: 12476363/phixion # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
+  pdf: https://drive.google.com/file/d/1dfqYoAURh4el9XBpxgImgU0z_OgJqQ4i/view?usp=sharing
 
   languages:
     - idiom: German
@@ -166,16 +167,20 @@ experiences:
 projects:
   title: Personal Projects
   intro: >
-    A selection of projects I am working on and/or contribute to. Find more projects on my [github profile](https://github.com/phixion)
+    A selection of projects I am working on and/or contribute to. Find more projects on my github profile
 
   assignments:
+    - title: cv.inferior.dev
+      link: "https://github.com/phixion/cv.inferior.dev"
+      tagline: "(yaml) the CV you are reading right now :)"
+
     - title: ur44-patch
       link: "https://github.com/phixion/arch_steinberg_ur44_patch"
       tagline: "(c) Kernel Patch for the Steinberg UR44 USB Audio Interface to work with Archlinux."
 
     - title: sopel-modules
       link: "https://github.com/phixion/sopel-modules"
-      tagline: "(python 2 and 3) A collection of modules for the  highly extensible IRC Bot framework [Sopel](https://github.com/sopel-irc/sopel)."
+      tagline: "(python 2 and 3) A collection of modules for the  highly extensible IRC Bot framework Sopel https://github.com/sopel-irc/sopel"
 
     - title: nv-update
       link: "https://github.com/lord-carlos/nvidia-update"
@@ -183,7 +188,7 @@ projects:
 
     - title: home-assistantconfig
       link: "https://github.com/phixion/Home-AssistantConfig"
-      tagline: "(yaml, bash) Configuration of my [home-assistant](https://github.com/home-assistant) "
+      tagline: "(yaml, bash) complete configuration of my home-automation https://github.com/home-assistant"
 
     - title: pkg-mirror
       link: "https://github.com/phixion/archmirror"
@@ -280,7 +285,7 @@ publications:
 
     - title: LPIC 1
       authors: Linux Professional Institute
-      conference: LPIC-1 and 2 certified
+      conference: LPIC
 
 skills:
   title: Skills &amp; Proficiency
