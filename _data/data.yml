@@ -26,10 +26,10 @@ sidebar:
 
   languages:
     - idiom: German
-      level: mother tounge
+      level: native speaker
 
     - idiom: English
-      level: fluent
+      level: business fluent
 
   interests:
     - item: Hiking
@@ -53,12 +53,11 @@ sidebar:
 career-profile:
   title: Profile
   summary: |
-    Sysop with 10 years of experience in busineses ranging from middle-market companies to global cooperations.
-    Creativity and flexibility shaped my way of coping with issues as you only face problems you didn't take into consideration and planned ahead for.
-    Contribute to an enjoyable working environment within my team
-    I developed and extended my skills in coordination and managing of projects especially in my last position.
-    "Good stress" has always been a driver for my work, staying calm and rational and always keep the ball moving during sprints and critical phases.
-    Evaluate and establish open source software in my work environments; not on every ocasion possible but when there's clearly benefits over enterprise products.
+    10 years of experience in busineses ranging from mid-sized companies to global cooperations.
+    Creative, flexibile, adaptable and professional.
+    Contribute to an enjoyable working environment.
+    Create automated environments that require minimal maintanance.
+     
 
 #career-profile:
 #  title: Profil
@@ -104,17 +103,17 @@ education:
 #      - IHK Abschluss als Fachinformatiker mit Schwerpunkt Systemintegration
 
 experiences:
-  - role: Linux Professional Institute Certification Programme (LPIC 1 + 2)
+  - role: Linux Professional Institute Certification Programme (LPIC)
     time: 2019 - 2020
     company: Alphatraining Munich
     details: |
-      - full-time trainings and certifications for LPIC 1 and 2
+      - full-time trainings and certifications for LPIC 1
 
   - role: Network Infrastructure (projects and company demerge)
     time: 2018 - 2019
     company: IFCO Systems GmbH
     details: |
-      - planning and forming the azure cloud migration of core services (mail, file, ad, mobile)
+      - azure cloud migration of core services (mail, file, active-directory, mobile)
       - decommisioning of on-premise services
       - infrastructure demerge as part of a company split
       - rebuild IT services, infrastructure helpdesks as result of company split
@@ -133,7 +132,7 @@ experiences:
       - reallocating the IP-address space for the current IFCO sites as part of a infrastructure migration with another company
       - replacement of Blackberry devices for Europe including migration from BES 5.x to BES 10
       - migration from Windows XP / Office 2003 to Windows 7 / Office 2010
-      - software packaging and deployment
+      - software packaging and deployment 
       - datacenter, server, client and network maintanance (cisco IOS, Windows Server 2003 - 2016, Debian Linux, RHEL, Fedora, Windows XP - 10)
       - Storage Administration (NetApp, EMC/Dell Storage)
       - on-site backup, tape backup, metro clustering, storage migration (NetApp -> EMC)
@@ -145,7 +144,6 @@ experiences:
       - project lead migration of print servers and clients to Windows Server 2008 R2
       - 1st and 2nd level support with a focus on English speaking users
       - revamp of the ticket / call logging processes including basic change management
-      - after my successful migration I was offered a permament job
 
   - role: Legal Assistant (IHK)
     time: 2006 - 2009
@@ -166,30 +164,30 @@ experiences:
       - certification as paralegal
 
 projects:
-  title: Projects
+  title: Personal Projects
   intro: >
-    Here's a selection of projects I am working on and/or contribute to
+    A selection of projects I am working on and/or contribute to. Find more projects on my [github profile](https://github.com/phixion)
 
   assignments:
-    - title: UR44-Patch
+    - title: ur44-patch
       link: "https://github.com/phixion/arch_steinberg_ur44_patch"
       tagline: "(c) Kernel Patch for the Steinberg UR44 USB Audio Interface to work with Archlinux."
 
-    - title: Sopel-Modules
+    - title: sopel-modules
       link: "https://github.com/phixion/sopel-modules"
-      tagline: "(python 2 and 3) A collection of modules for the  highly extensible IRC Bot framework Sopel."
+      tagline: "(python 2 and 3) A collection of modules for the  highly extensible IRC Bot framework [Sopel](https://github.com/sopel-irc/sopel)."
 
-    - title: NV-Update
+    - title: nv-update
       link: "https://github.com/lord-carlos/nvidia-update"
       tagline: "(powershell) Powershell script to download and update nvidia drivers (contribution)"
 
-    - title: dynufw
-      link: "https://github.com/phixion/dynufw"
-      tagline: "(bash) Dynamically update ufw rules for dynmic destinations (i.e. dialup or mobile connections)"
+    - title: home-assistantconfig
+      link: "https://github.com/phixion/Home-AssistantConfig"
+      tagline: "(yaml, bash) Configuration of my [home-assistant](https://github.com/home-assistant) "
 
-    - title: PKG-Mirror
+    - title: pkg-mirror
       link: "https://github.com/phixion/archmirror"
-      tagline: "(docker, bash) Hosting package repositories/iso archives for Archlinux, Tails, Ubuntu, Qubes and Slackware (france and finland, currently migrating to docker and larger storage)"
+      tagline: "(bash, css) package mirrors/iso archives for archlinux, tails, qubes and slackware"
 
 #experiences:
 #  - role: Linux Professional Institute Certification Program (LPIC 1 + 2)
@@ -280,7 +278,7 @@ publications:
       authors: Jedox Akademie
       conference: Deployment and configuration of Jedox client and server
 
-    - title: LPIC 1 + 2
+    - title: LPIC 1
       authors: Linux Professional Institute
       conference: LPIC-1 and 2 certified
 
@@ -290,7 +288,7 @@ skills:
   #  title: Skills &amp; Kompetenzen
 
   toolset:
-    - name: computer networks
+    - name: networks and infrastructure
       level: 90%
 
     - name: CI, automation and deployment
