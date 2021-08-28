@@ -187,9 +187,9 @@ publications:
       authors: Microsoft
       conference: Installing and configuring of Windows Server 2012
 
-    - title: Jedox System Administrator (in-memory DB)
+    - title: Jedox System Administrator
       authors: Jedox Akademie
-      conference: Deployment and configuration of Jedox server and client.
+      conference: Deployment and configuration of Jedox (in-memory DB) server and client.
 
     - title: LPIC Certificate
       authors: Linux Professional Institute
