@@ -48,10 +48,10 @@ sidebar:
 career-profile:
   title: Profile
   summary: |
-    * 10 years of experience in busineses ranging from mid-sized companies to global cooperations.
-    * Creative, flexibile and professional.
+    * 10 years of experience in businesses ranging from mid-sized companies to global cooperations.
+    * Creative, flexible and professional.
     * Contribute to an enjoyable work environment.
-    * Create automated environments that require minimal maintanance.
+    * Create automated environments that require minimal maintenance.
     * Linux is my preferred tech stack but Windows is where I come from.
 
 education:
@@ -59,7 +59,7 @@ education:
     university: Berufliches Gymnasium des Unstrut-Hainich-Kreises
     time: 1999 - 2003
     details: |
-      focused on electronic dataprocessing / computer science
+      focused on electronic data processing / computer science
 
   - degree: Anglistics and Business Science
     university: Friedrich Schiller Universität Jena
@@ -91,9 +91,9 @@ experiences:
     company: IFCO Systems GmbH
     details: |
       - migrate on-premise core services to Azure cloud (mail, file, active-directory, mobile)
-      - decommisioning of on-premise services
-      - infrastructure demerge as part of a company split
-      - rebuild core IT services, infrastructure helpdesks as result of company split
+      - decommissioning of on-premise services
+      - infrastructure de-merge as part of a company split
+      - rebuild core IT services, infrastructure and helpdesks as result of company split
       - Office 365 / Azure AD migration (backend and clients)
 
   - role: Network Infrastructure (servicedesk analyst)
@@ -104,15 +104,15 @@ experiences:
       - relicense and migrate client computers to different operating systems (Windows XP -> 7 -> 10)
       - Microsoft Active Directory Administration (account-administration, domain-trusts, permissions)
       - software packaging and deployment (WPKG)
-      - datacenter and network maintanance (cisco IOS, Windows Server 2003 - 2016, Debian, RHEL, Fedora, Windows XP - 10)
+      - data center and network maintenance (cisco IOS, Windows Server 2003 - 2016, Debian, RHEL, Fedora, Windows XP - 10)
       - Storage Administration (NetApp, EMC/Dell Storage)
       - Monitoring, log shipping and analysis
       - on-site backup, tape backup, metro clustering, storage migration (NetApp -> EMC/Dell)
       - in 2010 IFCO got acquired by a company (in 2015 start to unify infrastructure, applications and services)
-      - reallocate the IP-address space for the company (migrate intosplit network into new subnets, managements LANs and remote sites)
-      - preconfigure routers, switches and wifi APs and ship to remote sites (cisco ios, meraki)
+      - reallocate the IP-address space for the company (split network into new subnets, managements LANs and remote sites)
+      - pre-configure routers, switches and wifi APs and ship to remote sites (cisco ios, meraki)
 
-  - role: Network Infrasctructure (intern)
+  - role: Network Infrastructure (intern)
     time: 2011 - 2012
     company: IFCO Systems GmbH
     details: |
@@ -189,16 +189,16 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-    - name: team player / communication
+    - name: communication
       level: 100%
 
-    - name: open source software
+    - name: open source passion
       level: 100%
 
     - name: networks / infrastructure
       level: 80%
 
-    - name: monitoring / log shipping / analysis # (splunk, graylog, eventvwr)
+    - name: log shipping / analysis # (splunk, graylog, eventvwr)
       level: 70%
 
     - name: virtualization / containers # (hyperv, esxi, docker)
