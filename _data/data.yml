@@ -48,11 +48,11 @@ sidebar:
 career-profile:
   title: Profile
   summary: |
-    10 years of experience in busineses ranging from mid-sized companies to global cooperations.
-    Creative, flexibile and professional.
-    Contribute to an enjoyable work environment.
-    Create automated environments that require minimal maintanance.
-    Linux is my preferred tech stack but Windows is where I come from.
+    * 10 years of experience in busineses ranging from mid-sized companies to global cooperations.
+    * Creative, flexibile and professional.
+    * Contribute to an enjoyable work environment.
+    * Create automated environments that require minimal maintanance.
+    * Linux is my preferred tech stack but Windows is where I come from.
 
 education:
   - degree: Technical College
