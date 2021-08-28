@@ -47,11 +47,15 @@ sidebar:
 
 career-profile:
   title: Profile
-  summary: |+
+  summary: >
     10 years of experience in busineses ranging from mid-sized companies to global cooperations.
+
     Creative, flexibile and professional.
+
     Contribute to an enjoyable work environment.
+
     Create automated environments that require minimal maintanance.
+
     Linux is my preferred tech stack but Windows is where I come from.
 
 education:
@@ -138,32 +142,40 @@ experiences:
 projects:
   title: Personal Projects
   intro: >
-    A selection of projects I am working on and/or contribute to. Find more projects on <a href="//github.com/phixion"> my github profile page</a>
+    A selection of projects I am working on and/or contribute to.
+
+    Find more projects on <a href="//github.com/phixion"> my github profile page</a>
 
   assignments:
     - title: cv.inferior.dev
       link: "https://github.com/phixion/cv.inferior.dev"
-      tagline: '<a href=".">My CV</a>, hosted and deployed with the help of <a href="//docs.github.com/en/pages/getting-started-with-github-pages">github-pages</a> and the awesome <a href="https://github.com/sharu725/online-cv">online-cv</a> Jekyll theme'
+      tagline: |
+        '<a href=".">My CV</a>, hosted and deployed with the help of <a href="//docs.github.com/en/pages/getting-started-with-github-pages">github-pages</a> and the awesome <a href="https://github.com/sharu725/online-cv">online-cv</a> Jekyll theme'
 
     - title: ur44-patch
       link: "https://github.com/phixion/arch_steinberg_ur44_patch"
-      tagline: "A linux kernel patch which adds support for the Steinberg UR44 USB Audio Interface."
+      tagline: |
+        "A linux kernel patch which adds support for the Steinberg UR44 USB Audio Interface."
 
     - title: sopel-modules
       link: "https://github.com/phixion/sopel-modules"
-      tagline: 'A collection of useful modules for the highly extensible IRC Bot framework <a href="//github.com/sopel-irc/sopel">Sopel</a>'
+      tagline: |
+        'A collection of useful modules for the highly extensible IRC Bot framework <a href="//github.com/sopel-irc/sopel">Sopel</a>'
 
     - title: nv-update
       link: "https://github.com/lord-carlos/nvidia-update"
-      tagline: "Contributions to a powershell script that aims to perform an unattended update of the NVIDIA display drivers on computers running Windows"
+      tagline: |
+        "Contributions to a powershell script that aims to perform an unattended update of the NVIDIA display drivers on computers running Windows"
 
     - title: home-assistantconfig
       link: "https://github.com/phixion/Home-AssistantConfig"
-      tagline: 'The configuration of my open-source home automation, driven by <a href="//github.com/home-assistant">home-assistant</a> and <a href="//github.com/esphome/esphome">ESPHome</a>'
+      tagline: |
+        'The configuration of my open-source home automation, driven by <a href="//github.com/home-assistant">home-assistant</a> and <a href="//github.com/esphome/esphome">ESPHome</a>'
 
     - title: steamkey-bot
       link: "https://github.com/phixion/steamkey-scanbot"
-      tagline: 'POC for a bot that scans reddit for <a href="//partner.steamgames.com/doc/features/keys">steam keys</a> and collects or redeems them'
+      tagline: |
+        'POC for a bot that scans reddit for <a href="//partner.steamgames.com/doc/features/keys">steam keys</a> and collects or redeems them'
 
 publications:
   title: Certifications
