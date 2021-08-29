@@ -39,11 +39,11 @@ sidebar:
     - item: Music production
       link: //soundcloud.com/spzo
 
-    - item: Cycling 
+    - item: Cycling
       link: //datastudio.google.com/s/nVkyQIgIYSo
 
     - item: Vinyl records
-      link: //last.fm/user/ridelore/listening-report/week
+      link: //discogs.com/user/ridelore/collection
 
 career-profile:
   title: Profile
@@ -128,7 +128,7 @@ experiences:
 
   - role: Legal Assistant (IHK)
     time: 2006 - 2009
-    company: Allen & Overy LLP 
+    company: Allen & Overy LLP
     details: |
       - apprenticeship as a legal assistant
       - 1 year focused on first- and second-level support at IT-Servicedesk
@@ -191,26 +191,26 @@ skills:
   toolset:
     - name: communication
       level: 100%
-
+      exp:
     - name: open source passion
       level: 100%
-
+      exp:
     - name: networks / infrastructure
       level: 80%
-
+      exp:
     - name: log shipping / analysis # (splunk, graylog, eventvwr)
       level: 70%
-
+      exp: splunk, graylog, eventvwr
     - name: virtualization / containers # (hyperv, esxi, docker)
       level: 70%
-
+      exp: hyperv, esxi, docker
     - name: shell scripting # (bash, improving)
       level: 60%
-
+      exp: bash, ps, improving
     - name: programming # (python, improving)
       level: 50%
-
+      exp: python, improving
   #  footer: >
   #   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
   footer: >
-    <a href="//inferior.dev" target="_blank" rel="nofollow">Martin Spitz</a> 2020
+    <a href="//inferior.dev" target="_blank" rel="nofollow">Martin Spitz</a> 2021

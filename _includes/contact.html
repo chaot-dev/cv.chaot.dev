@@ -3,7 +3,7 @@
 
     {% if sidebar.email %}
     <li class="email"><i class="fas fa-envelope"></i>
-      <a href="mailto:{{ sidebar.email }}">{{ sidebar.email }}</a>
+      <a href="mailto:{{ sidebar.email }}?subject=via{{ site.baseurl }}">{{ sidebar.email }}</a>
     </li>
     {% endif %}
 
@@ -69,7 +69,7 @@
 
     {% if sidebar.pdf %}
     <li class="pdf"><i class="fas fa-file-pdf"></i>
-      <a href="//{{ sidebar.pdf }}" target="_blank">Download CV</a>
+      <a href="{{ site.baseurl }}/{{ sidebar.pdf }}" target="_blank">Download CV PDF</a>
     </li>
     {% endif %}
   </ul>
