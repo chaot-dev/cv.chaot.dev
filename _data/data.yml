@@ -23,7 +23,7 @@ sidebar:
   stack-overflow: 12476363/phixion # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
-  pdf: https://drive.google.com/file/d/1dfqYoAURh4el9XBpxgImgU0z_OgJqQ4i/view?usp=sharing
+  pdf: /cv_en.pdf
 
   languages:
     - idiom: German
@@ -37,13 +37,13 @@ sidebar:
 
   interests:
     - item: Music production
-      link: https://soundcloud.com/spzo
+      link: //soundcloud.com/spzo
 
     - item: Cycling 
-      link: https://datastudio.google.com/s/nVkyQIgIYSo
+      link: //datastudio.google.com/s/nVkyQIgIYSo
 
     - item: Vinyl records
-      link: https://last.fm/user/ridelore/listening-report/week
+      link: //last.fm/user/ridelore/listening-report/week
 
 career-profile:
   title: Profile
