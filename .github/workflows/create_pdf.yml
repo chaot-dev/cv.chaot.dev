@@ -11,8 +11,14 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: fifsky/html-to-pdf-action@master
+      - name: create pdf
+        uses: fifsky/html-to-pdf-action@master
         with:
           htmlFile: ./index.html
-          outputFile: ./assets/pdf/Martin_Spitz_CV_English.pdf
+          outputFile: ./cv_en.pdf
           pdfOptions: '{"format": "A4", "margin": {"top": "10mm", "left": "10mm", "right": "10mm", "bottom": "10mm"}}'
+      - name: upload artifacts
+        uses: actions/upload-artifact@v2
+        with:
+          name: CV PDF
+          path: ./assets/pdf/cv_en.pdf
