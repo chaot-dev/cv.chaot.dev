@@ -15,7 +15,8 @@ jobs:
         webPageURL: https://cv.inferior.dev
         outputFile: ./cv_en.pdf
         usePuppeteer: true
-        pdfOptions: '{"format": "A4", "margin": {"top": "10mm", "left": "10mm", "right": "10mm", "bottom": "10mm"}}'
+        useScreen: true
+        pdfOptions: '{"printBackground": "true","format": "A4", "margin": {"top": "2.54cm", "left": "2.54cm", "right": "2.54cm", "bottom": "2.54cm"}}'
     - name: commit PDF to branch
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
