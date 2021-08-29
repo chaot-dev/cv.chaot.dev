@@ -14,6 +14,7 @@ jobs:
       with:
         webPageURL: https://cv.inferior.dev
         outputFile: ./cv_en.pdf
+        usePuppeteer: false
         useScreen: true
         pdfOptions: '{"format": "A4", "margin": {"top": "2.54cm", "left": "2.54cm", "right": "2.54cm", "bottom": "2.54cm"}}'
     - name: commit PDF to branch
