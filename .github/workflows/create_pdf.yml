@@ -1,10 +1,17 @@
 name: create PDF file
-on: [push, pull_request, workflow_dispatch]
+on: 
+  push:
+    branches: 
+      - gh-pages
+  pull_request:
+    branches: 
+      - gh-pages
+  workflow_dispatch:
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: fifsky/html-to-pdf-action@gh-pages
+      - uses: fifsky/html-to-pdf-action@master
         with:
           htmlFile: ./index.html
           outputFile: ./assets/pdf/Martin_Spitz_CV_English.pdf
