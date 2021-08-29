@@ -1,0 +1,11 @@
+name: create PDF file
+on: [push, pull_request, workflow_dispatch]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: fifsky/html-to-pdf-action@gh-pages
+        with:
+          htmlFile: ./index.html
+          outputFile: ./assets/pdf/Martin_Spitz_CV_English.pdf
+          pdfOptions: '{"format": "A4", "margin": {"top": "10mm", "left": "10mm", "right": "10mm", "bottom": "10mm"}}'
