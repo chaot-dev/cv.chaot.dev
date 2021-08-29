@@ -9,7 +9,7 @@
 
     {% if sidebar.pgp %}
     <li class="pgp"><i class="fas fa-key"></i>
-      <a href="//keys.openpgp.org/search?q={{ sidebar.pgp }}" target="_blank">{{ sidebar.pgp }}</a>
+      <a href="//pgp.mit.edu/pks/lookup?op=get&search={{ sidebar.pgp }}" target="_blank">PGP publickey</a>
     </li>
     {% endif %}
     {% if sidebar.phone %}
@@ -72,18 +72,17 @@
       <a href="//www.goodreads.com/user/show/{{ sidebar.goodreads }}" target="_blank">{{ sidebar.goodreads }}</a>
     </li>
     {% endif %}
-
-    {% if sidebar.pdf %}
-    <li class="pdf"><i class="fas fa-file-pdf"></i>
-      <a href="{{ site.baseurl }}{{ sidebar.pdf }}" target="_blank">Download CV</a>
-    </li>
-    {% endif %}
-
     {% if sidebar.keybase %}
     <li class="keybase"><i class="fab fa-keybase"></i>
       <a href="//keybase.io/{{ sidebar.keybase }}" target="_blank">{{ sidebar.keybase }}</a>
     </li>
     {% endif %}
+    {% if sidebar.pdf %}
+    <li class="pdf"><i class="fas fa-file-pdf"></i>
+      <a href="{{ site.baseurl }}{{ sidebar.pdf }}" target="_blank">PDF Download</a>
+    </li>
+    {% endif %}
+
   </ul>
 </div>
 <!--//contact-container-->
