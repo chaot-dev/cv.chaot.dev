@@ -3,22 +3,22 @@ on:
   push:
     branches: 
       - gh-pages
-  pull_request:
-    branches: 
-      - gh-pages
   workflow_dispatch:
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: create pdf
-        uses: fifsky/html-to-pdf-action@master
-        with:
-          htmlFile: ./index.html
-          outputFile: ./cv_en.pdf
-          pdfOptions: '{"format": "A4", "margin": {"top": "10mm", "left": "10mm", "right": "10mm", "bottom": "10mm"}}'
-      - name: upload artifacts
-        uses: actions/upload-artifact@v2
-        with:
-          name: CV PDF
-          path: ./assets/pdf/cv_en.pdf
+    - name: convert page to pdf
+      uses: misaelnieto/web_to_pdf_action@master
+      with:
+        webPageURL: https://cv.inferior.dev
+        outputFile: ./cv_en.pdf
+        usePuppeteer: true
+        useScreen: false
+        pdfOptions: '{"format": "A4", "margin": {"top": "10mm", "left": "10mm", "right": "10mm", "bottom": "10mm"}}'
+    - name: commit PDF to branch
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: Generate PDF
+        branch: gh-pages
+        file_pattern: cv_en.pdf
