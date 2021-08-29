@@ -13,6 +13,7 @@ sidebar:
 
   # Sidebar links
   email: m@rtin.ms
+  pgp: 0x85D504E07899676E
   phone: +49 172 69 55 45 1
   website: inferior.dev # do not add http://
   linkedin:
@@ -23,8 +24,8 @@ sidebar:
   stack-overflow: 12476363/phixion # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
-  pdf: /cv_en.pdf
-
+  pdf: cv_en.pdf
+  keybase: phixion_
   languages:
     - idiom: German
       level: native speaker

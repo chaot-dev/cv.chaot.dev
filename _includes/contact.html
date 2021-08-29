@@ -3,10 +3,15 @@
 
     {% if sidebar.email %}
     <li class="email"><i class="fas fa-envelope"></i>
-      <a href="mailto:{{ sidebar.email }}?subject=via{{ site.baseurl }}">{{ sidebar.email }}</a>
+      <a href="mailto:{{ sidebar.email }}?subject=via%20cv.inferior.dev">{{ sidebar.email }}</a>
     </li>
     {% endif %}
 
+    {% if sidebar.pgp %}
+    <li class="pgp"><i class="fas fa-key"></i>
+      <a href="//keys.openpgp.org/search?q={{ sidebar.pgp }}" target="_blank">{{ sidebar.pgp }}</a>
+    </li>
+    {% endif %}
     {% if sidebar.phone %}
     <li class="phone"><i class="fas fa-phone"></i>
       <a href="tel:{{ sidebar.phone }}">{{ sidebar.phone }}</a>
@@ -69,7 +74,13 @@
 
     {% if sidebar.pdf %}
     <li class="pdf"><i class="fas fa-file-pdf"></i>
-      <a href="{{ site.baseurl }}/{{ sidebar.pdf }}" target="_blank">Download CV PDF</a>
+      <a href="{{ site.baseurl }}{{ sidebar.pdf }}" target="_blank">Download CV</a>
+    </li>
+    {% endif %}
+
+    {% if sidebar.keybase %}
+    <li class="keybase"><i class="fab fa-keybase"></i>
+      <a href="//keybase.com/{{ sidebar.keybase }}" target="_blank">{{ sidebar.keybase }}</a>
     </li>
     {% endif %}
   </ul>
