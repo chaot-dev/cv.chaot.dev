@@ -12,7 +12,7 @@ jobs:
     - name: convert page to pdf
       uses: wei/curl@master
       with:
-        args: -s -o "cv_en.pdf" "https://v2.convertapi.com/convert/web/to/pdf?download=inline&secret={CONVERTAPI_SECRET}&url=http%3A%2F%2Fcv.inferior.dev"
+        args: -s -o "cv_en.pdf" "https://v2.convertapi.com/convert/web/to/pdf?download=inline&secret=${{ secrets.CONVERTAPI_SECRET }}&url=http%3A%2F%2Fcv.inferior.dev"
     - name: commit PDF to branch
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
