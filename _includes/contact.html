@@ -67,5 +67,10 @@
     </li>
     {% endif %}
 
+    {% if sidebar.pdf %}
+    <li class="pdf"><i class="fas fa-file-pdf"></i>
+      <a href="{{ sidebar.pdf }}" target="_blank">download PDF</a>
+    </li>
+    {% endif %}
   </ul>
 </div><!--//contact-container-->
