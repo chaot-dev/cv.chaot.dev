@@ -62,7 +62,8 @@
 
     {% if sidebar.codewars %}
     <li class="codewars"><i class="fas fa-code"></i>
-      <a href="//www.codewars.com/users/{{ sidebar.codewars }}/completed_solutions" target="_blank">{{ sidebar.codewars }}</a>
+      <a href="//www.codewars.com/users/{{ sidebar.codewars }}/completed_solutions" target="_blank">{{ sidebar.codewars
+        }}</a>
     </li>
     {% endif %}
 
@@ -80,8 +81,9 @@
 
     {% if sidebar.keybase %}
     <li class="keybase"><i class="fab fa-keybase"></i>
-      <a href="//keybase.com/{{ sidebar.keybase }}" target="_blank">{{ sidebar.keybase }}</a>
+      <a href="//keybase.io/{{ sidebar.keybase }}" target="_blank">{{ sidebar.keybase }}</a>
     </li>
     {% endif %}
   </ul>
-</div><!--//contact-container-->
+</div>
+<!--//contact-container-->
