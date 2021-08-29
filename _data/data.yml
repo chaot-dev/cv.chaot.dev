@@ -191,25 +191,31 @@ skills:
   toolset:
     - name: communication
       level: 100%
-      exp:
-    - name: open source passion
+      exp: team player, honest and open
+    - name: open source
       level: 100%
-      exp:
-    - name: networks / infrastructure
+      exp: passionate about open source
+    - name: datacenter
+      level: 90%
+      exp: hp proliant, hp blade, ilo
+    - name: network / infrastructure
       level: 80%
-      exp:
-    - name: log shipping / analysis # (splunk, graylog, eventvwr)
+      exp: cisco ios, meraki, unifi
+    - name: virtualization / containers
       level: 70%
-      exp: splunk, graylog, eventvwr
-    - name: virtualization / containers # (hyperv, esxi, docker)
+      exp: docker, lxc/d, hyperv, esxi
+    - name: shell scripting
       level: 70%
-      exp: hyperv, esxi, docker
-    - name: shell scripting # (bash, improving)
+      exp: bash, ps, batch
+    - name: backup
+      level: 65%
+      exp: bacula, rsync, netapp snapdrive, emc networker
+    - name: log shipping / analysis
       level: 60%
-      exp: bash, ps, improving
-    - name: programming # (python, improving)
+      exp: splunk, graylog, rsyslog
+    - name: programming
       level: 50%
-      exp: python, improving
+      exp: improving in python
   #  footer: >
   #   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
   footer: >
