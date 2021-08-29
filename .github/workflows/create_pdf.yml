@@ -10,16 +10,12 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: convert page to pdf
-      uses: misaelnieto/web_to_pdf_action@master
+      uses: wei/curl@master
       with:
-        webPageURL: https://cv.inferior.dev
-        outputFile: ./cv_en.pdf
-        usePuppeteer: false
-        useScreen: true
-        pdfOptions: '{"format": "A4", "margin": {"top": "2.54cm", "left": "2.54cm", "right": "2.54cm", "bottom": "2.54cm"}}'
+        args: -s -o "cv_en.pdf" "https://v2.convertapi.com/convert/web/to/pdf?download=inline&secret={CONVERTAPI_SECRET}Qi&url=http%3A%2F%2Fcv.inferior.dev"
     - name: commit PDF to branch
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
-        commit_message: Generate PDF
+        commit_message: generate PDF from gh-pages
         branch: gh-pages
         file_pattern: cv_en.pdf
