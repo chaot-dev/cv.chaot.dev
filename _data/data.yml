@@ -87,18 +87,16 @@ experiences:
     details: |
       - full-time trainings and certifications for LPIC
 
-  - role: Network Infrastructure (full-time work on company de-merge)
+  - role: Network Infrastructure (sysop)
     time: 2018 - 2019
     company: IFCO Systems GmbH
     details: |
-      - migrate on-premise core services to Azure cloud (mail, file, active-directory, mobile)
-      - decommissioning of on-premise services
-      - infrastructure de-merge as part of a company split
-      - rebuilding core IT services, infrastructure and helpdesks as result of company split ()
-      - Office 365 / Azure AD migration (backend and clients)
-      - in 2010 IFCO got acquired by another company (in 2015 start to unify infrastructure, applications and services)
+      - in 2019 IFCO Systems GmbH got acquired by a new investor
+      - infrastructure break-up from the current parent company as part of the split
+      - rebuilding all core IT services (re-evaluation of the software stack)
+      - re-establish own network infrastructure (routers, switches, gateways, access points, server-racks, ISPs)
       - reallocate the IP-address space for the company (split network into new subnets, managements lan, vpn, guest access)
-      - rollout of network-equipment to remotesites (90 sites in 50 countries)
+      - rollout of network-equipment to remote sites (90 sites in 50 countries)
 
   - role: Network Infrastructure (sysadmin)
     time: 2012 - 2018
@@ -114,14 +112,26 @@ experiences:
       - implementing and extending security concepts (mdm, symantec endpoint protection, vpn, gpo, device encryption, mail encryption, role-based acl, wsus, backup)
       - mobile device backup, on-site backup, tape backup, metro clustering, storage migration (NetApp -> EMC/Dell)
       - build interfaces between the ERP (SAP) and our customers for reliable and secure data exchange
+      - in 2010 IFCO Systems GmbH got acquired by another company/investor 
+      - unify existing infrastructure and services with parent company
+      - migrate on-premise core services to Azure cloud instances of the parent company (mail, file, active-directory, mobile)
+      - decommissioning of on-premise services/servers
+      - Office 365 / Azure AD migration (backend and clients)
 
-  - role: Network Infrastructure (intern)
+  - role: Network Infrastructure (intern, service desk analyst)
     time: 2011 - 2012
     company: IFCO Systems GmbH
     details: |
       - migration of print servers and clients to Windows Server 2008 R2 (IHK project for certification)
-      - 1st and 2nd level support with a focus on English speaking userbase
+      - 1st and 2nd level support with a focus on English speaking user base
       - overhaul of the ticket / call logging processes
+      - VIP support for the CEO and CFO (windows ad integration of macosx devices, raise awareness for data security)
+      - provide help/fixes for everyday computer issues of the colleagues
+      - in depth support for microsoft office products (word, excel, powerpoint, outlook)
+      - datacenter maintenance, backup tasks, storage administration
+      - administration of virtual server environment (hyperv)
+      - shipping new users, retention and deactivation of leaving users
+      - user documentation and trainings
 
   - role: Professional Computer Scientist (IHK)
     time: 2009 - 2011
