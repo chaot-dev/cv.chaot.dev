@@ -1,14 +1,3 @@
-#### My resume
-it's a work in progress. This repository feeds [that](https://cv.inferior.dev/) page with the help of github pages and the cloudflare cdn
+# My resume
 
-#### Ways to contact me
-
-Phone is preferred.
-
-#### Where're all your Certificates
-
-I decided not to share those online and only provide them on request.
-
-#### Are there people that'd reference you?
-
-Shared on request.
+[My CV](https://cv.inferior.dev/) is deployed by [github-pages](https://github.com/phixion/cv.inferior.dev/deployments/activity_log?environment=github-pages), secured by the [cloudflare cdn](https://developers.cloudflare.com/fundamentals/get-started/cdn) and made look good with the help of [this jekyll theme](http://themes.3rdwavemedia.com/)

@@ -72,13 +72,13 @@ education:
     university: Hochschule Wismar
     time: 2014 - 2015
     details: |
-      - IHK certified IT Specialist, qualified for systems integration and networks (IHK)
+      certified IT Specialist, qualified for systems integration and networks (IHK)
 
   - degree: Linux Professional Institute Certification Programme
     university: Alphatraining Munich
     time: 2019 - 2020
     details: |
-      - full-time trainings and certifications for LPIC
+      full-time trainings and certifications for LPIC
 
 experiences:
   - role: Linux Professional Institute Certification Programme (LPIC)
@@ -87,31 +87,33 @@ experiences:
     details: |
       - full-time trainings and certifications for LPIC
 
-  - role: Network Infrastructure (full-time work on company de-merger)
+  - role: Network Infrastructure (full-time work on company de-merge)
     time: 2018 - 2019
     company: IFCO Systems GmbH
     details: |
       - migrate on-premise core services to Azure cloud (mail, file, active-directory, mobile)
       - decommissioning of on-premise services
       - infrastructure de-merge as part of a company split
-      - rebuild core IT services, infrastructure and helpdesks as result of company split
+      - rebuilding core IT services, infrastructure and helpdesks as result of company split ()
       - Office 365 / Azure AD migration (backend and clients)
+      - in 2010 IFCO got acquired by another company (in 2015 start to unify infrastructure, applications and services)
+      - reallocate the IP-address space for the company (split network into new subnets, managements lan, vpn, guest access)
+      - rollout of network-equipment to remotesites (90 sites in 50 countries)
 
-  - role: Network Infrastructure (servicedesk analyst)
+  - role: Network Infrastructure (sysadmin)
     time: 2012 - 2018
     company: IFCO Systems GmbH
     details: |
       - replace mobile devices (Blackberry -> iPhone, migrating from BES 5.x to BES 10)
-      - relicense and migrate client computers to different operating systems (Windows XP -> 7 -> 10)
-      - Microsoft Active Directory Administration (account-administration, domain-trusts, permissions)
-      - software packaging and deployment (WPKG)
-      - data center and network maintenance (cisco IOS, Windows Server 2003 - 2016, Debian, RHEL, Fedora, Windows XP - 10)
-      - Storage Administration (NetApp, EMC/Dell Storage)
-      - Monitoring, log shipping and analysis
-      - on-site backup, tape backup, metro clustering, storage migration (NetApp -> EMC/Dell)
-      - in 2010 IFCO got acquired by a company (in 2015 start to unify infrastructure, applications and services)
-      - reallocate the IP-address space for the company (split network into new subnets, managements LANs and remote sites)
-      - pre-configure routers, switches and wifi APs and ship to remote sites (cisco ios, meraki)
+      - licensing and migration of windows clients/servers (track license volumes, prevent systems to run EOL)
+      - Microsoft active directory administration (user-/service accounts, domain-trusts, permissions, fileshares)
+      - software packaging, patch-management and deployment (WPKG)
+      - data center and network maintenance (cisco IOS, Windows Server 2003 - 2016, Debian, rhel, Fedora, Windows XP - 10)
+      - storage administration (NetApp, EMC/Dell Storage)
+      - monitoring, log shipping and analysis
+      - implementing and extending security concepts (mdm, symantec endpoint protection, vpn, gpo, device encryption, mail encryption, role-based acl, wsus, backup)
+      - mobile device backup, on-site backup, tape backup, metro clustering, storage migration (NetApp -> EMC/Dell)
+      - build interfaces between the ERP (SAP) and our customers for reliable and secure data exchange
 
   - role: Network Infrastructure (intern)
     time: 2011 - 2012
@@ -139,7 +141,7 @@ experiences:
 projects:
   title: Personal Projects
   intro: >
-    A selection of projects I am working on and/or contribute to.
+    A selection of projects I am working on or contribute to.
 
     Find more projects on <a href="//github.com/phixion"> my github profile page</a>
 
@@ -182,7 +184,7 @@ publications:
       authors: Jedox Akademie
       conference: Deployment and configuration of Jedox (in-memory DB) server and client.
 
-    - title: LPIC Certificate
+    - title: LPIC Certification
       authors: Linux Professional Institute
       conference: LPIC
 
@@ -198,7 +200,10 @@ skills:
       exp: passionate about open source
     - name: datacenter
       level: 90%
-      exp: hp proliant, hp blade, ilo
+      exp: hp proliant, hp blade, ilo, dc maintenance
+    - name: microsoft enterprise services
+      level: 85%
+      exp: active directory, ms exchange, kms/vlsc, gpos, mdt
     - name: network / infrastructure
       level: 80%
       exp: cisco ios, meraki, unifi
@@ -213,10 +218,10 @@ skills:
       exp: bacula, rsync, netapp snapdrive, emc networker
     - name: log shipping / analysis
       level: 60%
-      exp: splunk, graylog, rsyslog
+      exp: splunk, graylog, rsyslog, nagios
     - name: programming
       level: 50%
-      exp: improving in python
+      exp: learning/improving python
   #  footer: >
   #   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
   footer: >
