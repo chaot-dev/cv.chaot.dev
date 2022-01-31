@@ -81,6 +81,15 @@ education:
       full-time trainings and certifications for LPIC
 
 experiences:
+  - role: IT Administrator
+    time: 2020 - 2022
+    company: Christian Schüler Facharzt für Allgemeinmedizin
+    details: |
+      - IT infrastructure management
+      - fulfillment of conditions for electronic medical records
+      - maintenance of the electronic medical record system
+      - hardware and software maintenance
+
   - role: Linux Professional Institute Certification Programme (LPIC)
     time: 2019 - 2020
     company: Alphatraining Munich
