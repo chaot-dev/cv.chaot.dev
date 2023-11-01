@@ -14,8 +14,8 @@ sidebar:
   # Sidebar links
   email: m@rtin.ms
   pgp: "0x85D504E07899676E"
-  phone: +49 172 69 55 45 1
-  website: chaot.dev
+  phone: +49 170 610 95 91
+  website: github.com/phixion
   linkedin:
   github: phixion
   gitlab:
@@ -81,6 +81,12 @@ education:
       full-time trainings and certifications for LPIC
 
 experiences:
+  - role: System Engineer / IT-Security
+    time: 2023 - to date
+    company: undisclosed
+    details: |
+      - undisclosed
+      
   - role: Linux Professional Institute Certification Programme (LPIC)
     time: 2019 - 2020
     company: Alphatraining Munich
