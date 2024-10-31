@@ -161,8 +161,8 @@ projects:
     Find more projects on <a href="//github.com/phixion"> my github profile page</a>
 
   assignments:
-    - title: cv.inferior.dev
-      link: "https://github.com/phixion/cv.inferior.dev"
+    - title: cv.chaot.dev
+      link: "https://github.com/chaot-dev/cv.chaot.dev/"
       tagline: '<a href=".">My CV</a>, hosted and deployed with the help of <a href="//docs.github.com/en/pages/getting-started-with-github-pages">github-pages</a> and the awesome <a href="https://github.com/sharu725/online-cv">online-cv</a> Jekyll theme'
 
     - title: ur44-patch
@@ -240,4 +240,4 @@ skills:
   #  footer: >
   #   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
   footer: >
-    <a href="//inferior.dev" target="_blank" rel="nofollow">Martin Spitz</a> 2021
+    <a href="//cv.chaot.dev" target="_blank" rel="nofollow">Martin Spitz</a> 2021
