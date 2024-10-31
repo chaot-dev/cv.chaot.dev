@@ -97,7 +97,6 @@ experiences:
     time: 2018 - 2019
     company: IFCO Systems GmbH
     details: |
-      - in 2019 IFCO Systems GmbH got acquired by a new investor
       - infrastructure break-up from the current parent company as part of the split
       - rebuilding all core IT services (re-evaluation of the software stack)
       - re-establish own network infrastructure (routers, switches, gateways, access points, server-racks, ISPs)
@@ -136,8 +135,8 @@ experiences:
       - in depth support for microsoft office products (word, excel, powerpoint, outlook)
       - datacenter maintenance, backup tasks, storage administration
       - administration of virtual server environment (hyperv)
-      - shipping new users, retention and deactivation of leaving users
-      - user documentation and trainings
+      - user management
+      - documentation and internal trainings
 
   - role: Professional Computer Scientist (IHK)
     time: 2009 - 2011
