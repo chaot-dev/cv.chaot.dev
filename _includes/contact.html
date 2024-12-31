@@ -3,13 +3,13 @@
 
     {% if sidebar.email %}
     <li class="email"><i class="fas fa-envelope"></i>
-      <a href="mailto:{{ sidebar.email }}?subject=via%20cv.inferior.dev">{{ sidebar.email }}</a>
+      <a href="mailto:{{ sidebar.email }}?subject=via%20cv.chaot.dev">{{ sidebar.email }}</a>
     </li>
     {% endif %}
 
     {% if sidebar.pgp %}
     <li class="pgp"><i class="fas fa-key"></i>
-      <a href="//pgp.mit.edu/pks/lookup?op=get&search={{ sidebar.pgp }}" target="_blank">PGP publickey</a>
+      <a href="//keys.openpgp.org/search?q={{ sidebar.pgp }}" target="_blank">PGP publickey</a>
     </li>
     {% endif %}
     {% if sidebar.phone %}
