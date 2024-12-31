@@ -14,7 +14,7 @@ sidebar:
   # Sidebar links
   email: m(@)rtin.ms
   pgp: "D0C040763801A343"
-  phone: +49 0 NO-RECRUITING
+  phone: 
   website: github.com/phixion
   linkedin:
   github: phixion
@@ -25,7 +25,7 @@ sidebar:
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
   pdf: cv_chaot_dev.pdf
-  keybase: phixion_
+  keybase: 
   languages:
     - idiom: German
       level: native
