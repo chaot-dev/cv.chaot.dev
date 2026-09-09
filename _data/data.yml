@@ -12,9 +12,9 @@ sidebar:
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: m@rtin.ms
-  pgp: "D0C040763801A343"
-  phone: 
+  email: m+cv@rtin.ms
+  pgp:
+  phone:
   website: github.com/phixion
   linkedin:
   github: phixion
@@ -25,7 +25,7 @@ sidebar:
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
   pdf: cv_chaot_dev.pdf
-  keybase: 
+  keybase:
   languages:
     - idiom: German
       level: native
@@ -49,7 +49,7 @@ sidebar:
 career-profile:
   title: Profile
   summary: |
-    * 10 years of experience in businesses ranging from mid-sized companies to global cooperations.
+    * 15 years of experience in businesses ranging from mid-sized companies to global cooperations.
     * Creative, flexible and professional.
     * Contribute to an enjoyable work environment.
     * Create automated environments that require minimal maintenance.
@@ -81,12 +81,18 @@ education:
       full-time trainings and certifications for LPIC
 
 experiences:
+  - role: SysOps / IT-Security
+    time: 2025 - to date
+    company: public sector undisclosed
+    details: |
+      - undisclosed
+
   - role: System Engineer / IT-Security
-    time: 2023 - to date
+    time: 2023 - 2025
     company: undisclosed
     details: |
       - undisclosed
-      
+
   - role: Linux Professional Institute Certification Programme (LPIC)
     time: 2019 - 2020
     company: Alphatraining Munich
