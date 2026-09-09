@@ -1,20 +1,20 @@
 name: create PDF file
-on: 
+on:
   push:
-    branches: 
+    branches:
       - gh-pages
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - name: convert page to pdf
-      uses: wei/curl@master
-      with:
-        args: https\://v2.convertapi.com/convert/web/to/pdf\?download\=attachment\&secret\=${{ secrets.CONVERTAPI }}\&url\=http%3A%2F%2Fcv.chaot.dev -o cv_en.pdf
-    - name: commit PDF to branch
-      uses: stefanzweifel/git-auto-commit-action@v4
-      with:
-        commit_message: generate PDF from gh-pages
-        branch: gh-pages
-        file_pattern: cv_en.pdf
+      - uses: actions/checkout@master
+      - name: convert page to pdf
+        uses: enflo/curl-action@master
+        with:
+          curl: https\://v2.convertapi.com/convert/web/to/pdf\?download\=attachment\&secret\=${{ secrets.CONVERTAPI }}\&url\=http%3A%2F%2Fcv.chaot.dev -o cv_en.pdf
+      - name: commit PDF to branch
+        uses: stefanzweifel/git-auto-commit-action@latest
+        with:
+          commit_message: generate PDF from gh-pages
+          branch: gh-pages
+          file_pattern: cv_en.pdf
