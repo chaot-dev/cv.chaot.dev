@@ -1,5 +1,6 @@
+# Cache
 _site/
 .sass-cache/
 .jekyll-metadata
-.vscode/
-cv_en.pdf
+.jekyll-cache
+*.pdf
