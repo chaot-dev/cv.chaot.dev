@@ -1,5 +1,10 @@
+# Cache
 _site/
 .sass-cache/
 .jekyll-metadata
+<<<<<<< HEAD
 .vscode/
 cv_en.pdf
+=======
+.jekyll-cache
+>>>>>>> upstream/master

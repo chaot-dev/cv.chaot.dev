@@ -3,6 +3,7 @@
 #
 
 sidebar:
+  position: left # set to right if you want the sidebar on the right side
   about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
   education: True # set to False if you want education in main section instead of in sidebar
 
@@ -25,6 +26,9 @@ sidebar:
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
   pdf: cv_chaot_dev.pdf
+  mastodon: # Please include your full Mastodon link here.
+  hackerrank: # Please provide your HackerRank username.
+  leetcode:
   keybase:
   languages:
     - idiom: German

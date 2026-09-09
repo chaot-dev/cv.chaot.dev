@@ -5,11 +5,23 @@
 <!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->
 <!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
 <!--[if !IE]><!-->
+<<<<<<< HEAD
 <html lang="en">
 <!--<![endif]-->
+=======
+<html lang="en"> <!--<![endif]-->
+>>>>>>> upstream/master
 {% include head.html %}
 
 <body>
+  <button onclick="print()" class="print-button d-print-none">
+    <i class="fas fa-file-pdf"></i>Print
+  </button>
+
+  <button onclick="generatePDF()" class="pdf-button d-print-none" id="pdfButton">
+    <i class="fas fa-file-pdf"></i>PDF
+  </button>
+
   <div class="wrapper">
     {% include sidebar.html %}
 
@@ -34,6 +46,7 @@
       transition: 0.5s;
     }
 
+<<<<<<< HEAD
     #forkongithub a:hover {
       background: #4cac9d;
       color: #fff;
@@ -90,3 +103,10 @@
 </body>
 
 </html>
+=======
+  {% include scripts.html %}
+  <script src="{{ site.baseurl }}/assets/js/pdf-generator.js"></script>
+</body>
+
+</html>
+>>>>>>> upstream/master
