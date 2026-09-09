@@ -29,7 +29,7 @@ sidebar:
   stack-overflow: 12476363/phixion # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
-  mastodon: chaos.social/phixion # Please include your full Mastodon link here.
+  mastodon: https://chaos.social/phixion # Please include your full Mastodon link here.
   hackerrank: phixion # Please provide your HackerRank username.
   leetcode: phixion # Please provide your LeetCode username.
   pdf: cv_en.pdf
