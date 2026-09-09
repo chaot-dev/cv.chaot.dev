@@ -7,8 +7,8 @@ url: "https://cv.chaot.dev"
 
 description: Martin Spitz - SysOps
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
-theme_skin: turquoise # blue turquoise green berry orange ceramic teal oceanstale
-chrome_mobile_color: #4CAC9D #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
+theme_skin: ceramic # blue turquoise green berry orange ceramic teal oceanstale
+chrome_mobile_color: #3D5561 #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
 
 # Tracker
 analytics: UA-81179759-3
