@@ -3,15 +3,20 @@ on:
   push:
     branches:
       - gh-pages
+
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@master
+
       - name: convert page to pdf
-        uses: enflo/curl-action@master
-        with:
-          curl: https\://v2.convertapi.com/convert/web/to/pdf\?download\=attachment\&secret\=${{ secrets.CONVERTAPI }}\&url\=http%3A%2F%2Fcv.chaot.dev -o cv_en.pdf
+        run: |
+          curl -sS --fail "https://v2.convertapi.com/convert/web/to/pdf?download=attachment&secret=${{ secrets.CONVERTAPI }}&url=https%3A%2F%2Fcv.chaot.dev" -o cv_en.pdf
+
       - name: commit PDF to branch
         uses: stefanzweifel/git-auto-commit-action@latest
         with:
