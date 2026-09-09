@@ -16,9 +16,9 @@ sidebar:
   email: m+cv@rtin.ms
   pgp:
   phone:
-  timezone: Europe/Berlin # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship: German
-  website: github.com/phixion
+  timezone: # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  citizenship:
+  website:
   linkedin:
   github: phixion
   telegram:
@@ -30,7 +30,7 @@ sidebar:
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
   mastodon: https://chaos.social/phixion # Please include your full Mastodon link here.
-  hackerrank: phixion # Please provide your HackerRank username.
+  hackerrank: # Please provide your HackerRank username.
   leetcode: phixion # Please provide your LeetCode username.
   pdf: cv_en.pdf
   keybase:
